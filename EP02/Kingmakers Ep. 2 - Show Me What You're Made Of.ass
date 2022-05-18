@@ -8,8 +8,8 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 Original Editing: MellieVT, Kindigo, Salmonella
 Original Timing: MellieVT
-PlayResX: 1920
-PlayResY: 1080
+PlayResX: 1280
+PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
@@ -18,20 +18,20 @@ Video File: [VIDEO] Kingmakers Ep 2 - Show Me What You're Made Of.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 42
-Active Line: 58
-Video Position: 7295
+Scroll Position: 840
+Active Line: 855
+Video Position: 96465
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,MS Sans Serif,48,&H00FFFFFF,&H000000FF,&H00050506,&H00000000,0,0,0,0,100,100,0,0,3,4,0,2,10,10,20,1
-Style: Left,MS Sans Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,4,1.6,4,10,10,10,1
-Style: Right,MS Sans Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,4,2,6,10,10,10,1
-Style: Top Left,MS Sans Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,4,2,7,10,10,10,1
-Style: Top Right,MS Sans Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,4,2,9,10,10,10,1
-Style: Bottom Left,MS Sans Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,4,2,1,10,10,10,1
-Style: Bottom Right,MS Sans Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,4,2,3,10,10,10,1
-Style: Top,MS Sans Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,4,2,8,10,10,20,1
+Style: Default,MS Sans Serif,32,&H00FFFFFF,&H000000FF,&H00050506,&H00000000,0,0,0,0,100,100,0,0,3,2.66667,0,2,7,7,13,1
+Style: Left,MS Sans Serif,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,2.66667,1.06667,4,7,7,7,1
+Style: Right,MS Sans Serif,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,2.66667,1.33333,6,7,7,7,1
+Style: Top Left,MS Sans Serif,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,2.66667,1.33333,7,7,7,7,1
+Style: Top Right,MS Sans Serif,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,2.66667,1.33333,9,7,7,7,1
+Style: Bottom Left,MS Sans Serif,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,2.66667,1.33333,1,7,7,7,1
+Style: Bottom Right,MS Sans Serif,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,2.66667,1.33333,3,7,7,7,1
+Style: Top,MS Sans Serif,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,2.66667,1.33333,8,7,7,13,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -93,6 +93,870 @@ Dialogue: 0,0:03:50.53,0:03:54.93,Right,,0,0,0,,When I finally, finally look up\
 Dialogue: 0,0:03:58.12,0:04:00.14,Right,,0,0,0,,Where will I find myself?
 Comment: 0,0:04:00.14,0:04:03.14,Default,,0,0,0,,(END RASROTH MONOLOGUE)
 Comment: 0,0:04:03.14,0:04:03.14,Default,,0,0,0,,SECTION: ACT 1
+Dialogue: 0,0:04:33.04,0:04:35.86,Default,,0,0,0,,Because this is the best time of year because you—
+Dialogue: 0,0:04:35.86,0:04:37.96,Default,,0,0,0,,you don't get these the rest of the year.
+Dialogue: 0,0:04:37.96,0:04:40.90,Default,,0,0,0,,You have to make most of it now, otherwise you're not\Ngoing to have all of these—
+Dialogue: 0,0:04:40.90,0:04:42.82,Default,,0,0,0,,Look at that. Look at that over there.
+Dialogue: 0,0:04:43.25,0:04:46.58,Default,,0,0,0,,Do you see that? That's jam.\NAnd you don't get that kind of jam usually.
+Dialogue: 0,0:04:46.58,0:04:47.62,Default,,0,0,0,,Because it's rare—
+Dialogue: 0,0:04:46.92,0:04:47.62,Default,,0,0,0,,LYR: —Jam.
+Dialogue: 0,0:04:47.62,0:04:49.63,Default,,0,0,0,,Yeah, exactly!
+Dialogue: 0,0:04:50.02,0:04:52.01,Default,,0,0,0,,What kind of jam is this then?
+Dialogue: 0,0:04:52.01,0:04:57.85,Default,,0,0,0,,Well, I don't really know for sure. I just know that—\NI don't see that very often.
+Dialogue: 0,0:04:57.85,0:05:00.08,Default,,0,0,0,,So we just—come on, come on. Let's go.\NLet's go have a look.
+Dialogue: 0,0:05:00.34,0:05:01.49,Default,,0,0,0,,—All right!
+Dialogue: 0,0:05:00.08,0:05:03.98,Default,,0,0,0,,If I'm not rolling out of here by the end of this,\Nthen—we've done something wrong,
+Dialogue: 0,0:05:03.98,0:05:06.51,Default,,0,0,0,, because I wanna try {\i1}everything{\i0}.
+Dialogue: 0,0:05:07.70,0:05:08.97,Default,,0,0,0,,[laugh] All right, lead the way.
+Dialogue: 0,0:05:08.97,0:05:09.80,Default,,0,0,0,,Okay.
+Dialogue: 0,0:05:11.06,0:05:14.24,Default,,0,0,0,,Say, you're from the Shallows, right?
+Dialogue: 0,0:05:14.24,0:05:15.92,Default,,0,0,0,,What do your people make?
+Dialogue: 0,0:05:16.55,0:05:21.59,Default,,0,0,0,,I mean, there's—the muirberries. Obviously, that's what\Nwe have everywhere.
+Dialogue: 0,0:05:21.59,0:05:25.79,Default,,0,0,0,,Which—I mean, you've—I've given you those before,\Nyou've tried those.
+Dialogue: 0,0:05:25.79,0:05:30.51,Default,,0,0,0,,I gave you the muirberry—I've put it in muffins, I've\Nput it in buns, I've put it in—the turnovers?
+Dialogue: 0,0:05:30.51,0:05:31.20,Default,,0,0,0,,You love the turnovers—
+Dialogue: 0,0:05:31.20,0:05:31.47,Default,,0,0,0,,—I do.
+Dialogue: 0,0:05:31.47,0:05:33.51,Default,,0,0,0,,I've given you those, like, countless times. And, Jude?
+Dialogue: 0,0:05:33.51,0:05:34.18,Default,,0,0,0,,Hmm?
+Dialogue: 0,0:05:34.18,0:05:39.23,Default,,0,0,0,,I mean, did I not make you that, that—that toast with\Njam, that you asked for, that one time?
+Dialogue: 0,0:05:39.23,0:05:40.23,Default,,0,0,0,,That was muirberry!
+Dialogue: 0,0:05:40.23,0:05:41.33,Default,,0,0,0,,—Sounds correct.
+Dialogue: 0,0:05:42.02,0:05:42.36,Default,,0,0,0,,See?
+Dialogue: 0,0:05:42.36,0:05:43.68,Default,,0,0,0,,They're quite delicious.
+Dialogue: 0,0:05:43.68,0:05:45.94,Default,,0,0,0,,Very delicious. And they grow everywhere. So you can\Ndo—
+Dialogue: 0,0:05:45.94,0:05:49.24,Default,,0,0,0,,I mean, when I was a kid, I used to walk around the\Nstreets, and I used to pick them up and I used to just
+Dialogue: 0,0:05:49.24,0:05:51.12,Default,,0,0,0,,eat them, out of my hand.
+Dialogue: 0,0:05:51.12,0:05:56.96,Default,,0,0,0,,And—I mean, I don't know if you really have them in the\Ncastle, though, because they're kind of, I don't know.
+Dialogue: 0,0:05:56.96,0:06:02.13,Default,,0,0,0,,I'll be honest. Until I met you, I hadn't even heard of\Nthem; they don't sell them the castle. Ever.
+Dialogue: 0,0:06:02.13,0:06:07.01,Default,,0,0,0,,Well. See, I'm just— broadening your horizons, right\Nnow.
+Dialogue: 0,0:06:07.01,0:06:07.59,Default,,0,0,0,,That you are.
+Dialogue: 0,0:06:07.59,0:06:09.00,Default,,0,0,0,,—Cultural exchange.
+Dialogue: 0,0:06:09.00,0:06:11.36,Default,,0,0,0,,Exactly. Exactly!
+Dialogue: 0,0:06:11.36,0:06:14.21,Default,,0,0,0,,Um, okay. What is that?
+Dialogue: 0,0:06:15.62,0:06:20.12,Default,,0,0,0,,All right. Well, berries are good and all, but: I'm\Nstarving.
+Dialogue: 0,0:06:21.20,0:06:25.79,Default,,0,0,0,,What is what is there to eat, here? Like, big?
+Dialogue: 0,0:06:26.45,0:06:31.67,Default,,0,0,0,,'Big.' What're you thinking, like, that's—a whole\Nfeast? like a—ribs? or, um—
+Dialogue: 0,0:06:31.67,0:06:33.44,Default,,0,0,0,,To walk around with? Come on.
+Dialogue: 0,0:06:33.44,0:06:38.37,Default,,0,0,0,,Okay, like—like a huge leg. Like, as big as your face?
+Dialogue: 0,0:06:38.37,0:06:39.44,Default,,0,0,0,,Now we're talking.
+Dialogue: 0,0:06:39.97,0:06:41.45,Default,,0,0,0,,I mean, you can walk around with ribs.
+Dialogue: 0,0:06:41.45,0:06:45.74,Default,,0,0,0,,You just have to—have a good hold on them. That's all,\Nyou kind of—have to—
+Dialogue: 0,0:06:45.74,0:06:47.34,Default,,0,0,0,,—It's very messy.
+Dialogue: 0,0:06:47.34,0:06:47.67,Default,,0,0,0,,[splutters] W—
+Dialogue: 0,0:06:47.67,0:06:50.48,Default,,0,0,0,,Right. Appearances, I suppose.
+Dialogue: 0,0:06:50.48,0:06:53.03,Default,,0,0,0,,I suppose you're right. If I—were—hmm.
+Dialogue: 0,0:06:53.64,0:06:56.53,Default,,0,0,0,,Okay, fine. I mean, there's... bread?
+Dialogue: 0,0:06:56.53,0:06:59.62,Default,,0,0,0,,There's lots of— lots of— bread.
+Dialogue: 0,0:06:59.62,0:07:02.17,Default,,0,0,0,,Aww, come on, Jude, you're a leg woman, come on; let's\Nfind something to eat.
+Dialogue: 0,0:07:02.17,0:07:02.79,Default,,0,0,0,,[wry noise]
+Dialogue: 0,0:07:03.36,0:07:04.83,Default,,0,0,0,,Maybe some lamb.
+Dialogue: 0,0:07:05.88,0:07:08.75,Default,,0,0,0,,I, uhh, I look for a stall, all 'round.
+Dialogue: 0,0:07:08.75,0:07:11.43,Default,,0,0,0,,Maybe perhaps there's someone smoking meats?
+Dialogue: 0,0:07:11.82,0:07:15.75,Default,,0,0,0,,Okay. I'd like you to make two rolls, please.
+Dialogue: 0,0:07:16.20,0:07:18.39,Default,,0,0,0,,Both will be your observation.
+Dialogue: 0,0:07:19.14,0:07:20.31,Default,,0,0,0,,Okay.
+Dialogue: 0,0:07:24.27,0:07:27.54,Default,,0,0,0,,What? Did you just roll the same roll twice?
+Dialogue: 0,0:07:27.54,0:07:32.67,Default,,0,0,0,,Hold on. I feel like that's it. I mean, like, that's\Ninsane. So we gotta do something special for that.
+Dialogue: 0,0:07:33.12,0:07:39.07,Default,,0,0,0,,Okay, so, you do spot something that you would find\Nparticularly delicious.
+Dialogue: 0,0:07:39.07,0:07:41.10,Default,,0,0,0,,It might not even be what you were looking for.
+Dialogue: 0,0:07:41.10,0:07:43.53,Default,,0,0,0,,So, what is it that you spot, first of all?
+Dialogue: 0,0:07:43.53,0:07:49.56,Default,,0,0,0,,All right. So as we're in this, uhh, this almost like a\Nbazaar, market-stall kind of area.
+Dialogue: 0,0:07:49.56,0:07:56.11,Default,,0,0,0,,I see this, uhh— this rather portly lady. She's got a\Nblue apron, with yellow trimmings.
+Dialogue: 0,0:07:56.11,0:07:57.57,Default,,0,0,0,,She's calling people over.
+Dialogue: 0,0:07:57.57,0:08:01.65,Default,,0,0,0,,And she happens to have hanging and ready to just pick\Nup
+Dialogue: 0,0:08:01.65,0:08:06.61,Default,,0,0,0,,three long haunches of—it looks like—lamb or perhaps\Nsomething else.
+Dialogue: 0,0:08:06.61,0:08:13.49,Default,,0,0,0,,But it looks like the perfect thing to walk around\Neating as we explore this area.
+Dialogue: 0,0:08:13.49,0:08:14.61,Default,,0,0,0,,Okay.
+Dialogue: 0,0:08:15.12,0:08:22.29,Default,,0,0,0,,So you do see that and maybe you're excited to go and\Ngrab some of that, but you also see her...
+Dialogue: 0,0:08:22.71,0:08:24.63,Default,,0,0,0,,For just a moment...
+Dialogue: 0,0:08:25.05,0:08:28.74,Default,,0,0,0,,You see her crying. Her face in her hands.
+Dialogue: 0,0:08:30.12,0:08:34.44,Default,,0,0,0,,And then that moment passes and she's back to waving\Npeople over.
+Dialogue: 0,0:08:35.79,0:08:38.76,Default,,0,0,0,,I turn to Vega and I say:
+Dialogue: 0,0:08:39.36,0:08:40.53,Default,,0,0,0,,Did you see that?
+Dialogue: 0,0:08:40.53,0:08:42.00,Default,,0,0,0,,You did not, Vega.
+Dialogue: 0,0:08:42.81,0:08:43.98,Default,,0,0,0,,See what?
+Dialogue: 0,0:08:44.46,0:08:47.04,Default,,0,0,0,,I mean, there's some— look at that colour!
+Dialogue: 0,0:08:47.37,0:08:51.21,Default,,0,0,0,,Like an orange, but it's like, a reddy-orange. I\Nhaven't seen a colour like that in so long.
+Dialogue: 0,0:08:51.21,0:08:53.75,Default,,0,0,0,,That would make an amazing paint.
+Dialogue: 0,0:08:53.75,0:08:56.08,Default,,0,0,0,,Huh. All right.
+Dialogue: 0,0:08:56.08,0:08:59.74,Default,,0,0,0,,What is that—that, I assume that, what did you see?
+Dialogue: 0,0:09:00.67,0:09:02.23,Default,,0,0,0,,Oh, umm...
+Dialogue: 0,0:09:03.49,0:09:09.18,Default,,0,0,0,,The vendor, she looked... strange for a second, I'm not\Nsure if...
+Dialogue: 0,0:09:09.18,0:09:11.89,Default,,0,0,0,,Jude, did you—? Jude, did you see that?
+Dialogue: 0,0:09:11.89,0:09:12.93,Default,,0,0,0,,M—Maybe she just recognised you?
+Dialogue: 0,0:09:12.93,0:09:14.46,Default,,0,0,0,,[crosstalk] Did I see that?
+Dialogue: 0,0:09:14.46,0:09:14.67,Default,,0,0,0,,—You did not.
+Dialogue: 0,0:09:14.67,0:09:17.30,Default,,0,0,0,,Uh, that doesn't bode well, in that case.
+Dialogue: 0,0:09:18.50,0:09:22.94,Default,,0,0,0,,I step forward and put my... the back of my hand on\Nyour forehead.
+Dialogue: 0,0:09:25.31,0:09:27.96,Default,,0,0,0,,Come on now, I'm fine. Let's eat.
+Dialogue: 0,0:09:27.96,0:09:28.61,Default,,0,0,0,,All right.
+Dialogue: 0,0:09:29.24,0:09:33.47,Default,,0,0,0,,You sure? 'Cos it took you forever to get up this\Nmorning. You feeling okay?
+Dialogue: 0,0:09:33.47,0:09:36.14,Default,,0,0,0,,I mean when doesn't it? Come on, let's be real here.
+Dialogue: 0,0:09:34.90,0:09:39.58,Default,,0,0,0,,Umm—Yeah, but I had to knock on your door like four\Ntimes instead of three, and it's—
+Dialogue: 0,0:09:39.58,0:09:42.91,Default,,0,0,0,,I mean that— I was up before you, and that's saying\Nsomething.
+Dialogue: 0,0:09:41.90,0:09:46.71,Default,,0,0,0,,It's a holiday, and we trained so bloody hard, Jude.
+Dialogue: 0,0:09:46.71,0:09:47.99,Default,,0,0,0,,Yeah, I suppose.
+Dialogue: 0,0:09:48.68,0:09:52.17,Default,,0,0,0,,[Vega noises] Yeah, Jude. Yeah—
+Dialogue: 0,0:09:52.17,0:09:54.30,Default,,0,0,0,,—Do you want go, unprepared?
+Dialogue: 0,0:09:54.30,0:09:59.28,Default,,0,0,0,,N— I suppose not. But—
+Dialogue: 0,0:09:59.28,0:09:59.72,Default,,0,0,0,,—No.
+Dialogue: 0,0:09:59.72,0:10:04.97,Default,,0,0,0,,I mean, let's be real here: prepared for what?
+Dialogue: 0,0:10:06.59,0:10:09.87,Default,,0,0,0,,I mean, even one day off wouldn't hurt, right? Like—
+Dialogue: 0,0:10:09.87,0:10:12.44,Default,,0,0,0,,we could take the evening off tonight and go\Nstargazing?
+Dialogue: 0,0:10:12.44,0:10:16.86,Default,,0,0,0,,Or uhh, umm—we could take a boat to the Shallows!
+Dialogue: 0,0:10:16.86,0:10:19.67,Default,,0,0,0,,There's baby turtles this time of year!
+Dialogue: 0,0:10:21.32,0:10:21.96,Default,,0,0,0,,I turn to Jude.
+Dialogue: 0,0:10:21.96,0:10:26.66,Default,,0,0,0,,...I suppose it would be good for morale for us to take\Nsome time off.
+Dialogue: 0,0:10:26.66,0:10:30.20,Default,,0,0,0,,That's the spirit! That's the spirit. Okay, okay, okay.
+Dialogue: 0,0:10:30.20,0:10:32.06,Default,,0,0,0,,—All right, you heard the boss lady!
+Dialogue: 0,0:10:33.35,0:10:34.35,Default,,0,0,0,,—But, like, let's keep it reasonable.
+Dialogue: 0,0:10:34.35,0:10:34.59,Default,,0,0,0,,Reasonable.
+Dialogue: 0,0:10:34.59,0:10:41.28,Default,,0,0,0,,—Well, I mean there's nothing more reasonable than\Nstargazing and Shallow turt—we can keep the turtles as
+Dialogue: 0,0:10:41.28,0:10:41.43,Default,,0,0,0,,pets!
+Dialogue: 0,0:10:41.43,0:10:43.55,Default,,0,0,0,,That's a terrible idea. We cannot keep the turtles as\Npets.
+Dialogue: 0,0:10:42.90,0:10:44.91,Default,,0,0,0,,—You may keep the turtles as pets. If you so choose.
+Dialogue: 0,0:10:46.62,0:10:48.03,Default,,0,0,0,,[laughing] Absolutely.
+Dialogue: 0,0:10:49.32,0:10:50.94,Default,,0,0,0,,I'm going to name mine...
+Dialogue: 0,0:10:52.14,0:10:53.28,Default,,0,0,0,,Billiam.
+Dialogue: 0,0:10:53.79,0:10:54.30,Default,,0,0,0,,Billiam?
+Dialogue: 0,0:10:54.30,0:10:54.52,Default,,0,0,0,,—Billiam.
+Dialogue: 0,0:10:54.52,0:10:54.85,Default,,0,0,0,,Billiam—Billiam the Bold.
+Dialogue: 0,0:10:54.85,0:10:56.22,Default,,0,0,0,,Billiam the Bold?
+Dialogue: 0,0:10:54.90,0:11:01.37,Default,,0,0,0,,—After my favorite children's book character, Billiam\Nthe Bold.
+Dialogue: 0,0:11:01.37,0:11:03.79,Default,,0,0,0,,I'll call mine 'Sheldon the Shield', then, after mine.
+Dialogue: 0,0:11:03.79,0:11:08.13,Default,,0,0,0,,[excited] Ooh! Okay, hold on.
+Dialogue: 0,0:11:08.13,0:11:13.28,Default,,0,0,0,,Tell me a little bit more about this story of Billiam\Nthe Bold, Vega.
+Dialogue: 0,0:11:13.28,0:11:21.15,Default,,0,0,0,,Um, it was a very traditional—sort of Knights of the\NRound Table story, they often would feed it to, umm—
+Dialogue: 0,0:11:22.05,0:11:27.52,Default,,0,0,0,,the kids in the villages, like there were free books\Nthat they would give out to try and, umm, improve I
+Dialogue: 0,0:11:27.52,0:11:28.32,Default,,0,0,0,,suppose.
+Dialogue: 0,0:11:28.32,0:11:31.48,Default,,0,0,0,,Like the—What's the word?
+Dialogue: 0,0:11:31.48,0:11:34.69,Default,,0,0,0,,Like the optics of knighthood and things like that.
+Dialogue: 0,0:11:34.69,0:11:38.71,Default,,0,0,0,,So it was like, very traditional values.
+Dialogue: 0,0:11:38.71,0:11:45.28,Default,,0,0,0,,Billiam the Bold would go on adventures with his, his\Nnoble knights around him, and they would get up into
+Dialogue: 0,0:11:45.28,0:11:47.44,Default,,0,0,0,,lots of hijinks and
+Dialogue: 0,0:11:47.44,0:11:51.22,Default,,0,0,0,,it would kind of like teach you little lessons about\Nmorality along the way.
+Dialogue: 0,0:11:51.22,0:11:53.81,Default,,0,0,0,,What did you learn? About morality?
+Dialogue: 0,0:11:52.90,0:11:57.85,Default,,0,0,0,,Umm... Vega—Well, I picked up that...
+Dialogue: 0,0:11:56.90,0:12:01.98,Default,,0,0,0,,a lot of the time you can't make it on your own.
+Dialogue: 0,0:12:01.98,0:12:05.30,Default,,0,0,0,,And you have to rely on other people to help you.
+Dialogue: 0,0:12:06.32,0:12:09.89,Default,,0,0,0,,Interesting. Okay, I like that.
+Dialogue: 0,0:12:10.28,0:12:13.81,Default,,0,0,0,,And Lyr, what about you? What did you learn from\NSheldon the Shield?
+Dialogue: 0,0:12:13.81,0:12:16.01,Default,,0,0,0,,Oh, Sheldon the Shield?
+Dialogue: 0,0:12:16.01,0:12:18.39,Default,,0,0,0,,Well, I mean that it's a tale that goes back a long\Nway.
+Dialogue: 0,0:12:18.39,0:12:23.29,Default,,0,0,0,,It's a tale of this knight, who came from humble\Nbeginnings.
+Dialogue: 0,0:12:23.29,0:12:34.06,Default,,0,0,0,,And through countless tests, trials of self-sacrifice,\Nbecame ward of the king himself, all by himself.
+Dialogue: 0,0:12:34.72,0:12:37.06,Default,,0,0,0,,Kind of reminds me a bit of Jude, honestly.
+Dialogue: 0,0:12:37.06,0:12:42.28,Default,,0,0,0,,The way she carries herself, the way she always gets on\Nmy case about things.
+Dialogue: 0,0:12:43.00,0:12:45.43,Default,,0,0,0,,That's Sheldon the Shield right there.
+Dialogue: 0,0:12:45.79,0:12:47.14,Default,,0,0,0,,I like Sheldon.
+Dialogue: 0,0:12:48.25,0:12:52.21,Default,,0,0,0,,What about you, Jude? Do you have a favourite childhood\Nstory?
+Dialogue: 0,0:12:55.63,0:12:58.33,Default,,0,0,0,,I don't remember many childhood stories.
+Dialogue: 0,0:13:00.04,0:13:10.40,Default,,0,0,0,,Though I did always like one about a foolish girl who\Ngets into a lot of trouble but somehow ends up saving
+Dialogue: 0,0:13:10.40,0:13:11.89,Default,,0,0,0,,the day frequently.
+Dialogue: 0,0:13:11.89,0:13:18.97,Default,,0,0,0,,Never really made much sense but I admired her\Nfierceness.
+Dialogue: 0,0:13:21.31,0:13:22.51,Default,,0,0,0,,'Angelique'.
+Dialogue: 0,0:13:26.73,0:13:27.99,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:13:28.38,0:13:30.57,Default,,0,0,0,,Sorry to interrupt, please continue.
+Dialogue: 0,0:13:33.71,0:13:37.41,Default,,0,0,0,,So you, she definitely didn't recognise you then.
+Dialogue: 0,0:13:36.96,0:13:44.65,Default,,0,0,0,,—Oh, umm—she, she looked like she was upset, honestly,\Nall things considered. I don't understand why.
+Dialogue: 0,0:13:37.41,0:13:38.27,Default,,0,0,0,,I mean, well—
+Dialogue: 0,0:13:44.65,0:13:49.77,Default,,0,0,0,,But the second I caught it—it was like I blinked and\Nshe was just back to being who she was.
+Dialogue: 0,0:13:50.28,0:13:54.25,Default,,0,0,0,,Well, why would she be upset? It's—it's the harvest.
+Dialogue: 0,0:13:54.25,0:13:57.10,Default,,0,0,0,,I mean you don't get better than the harvest!
+Dialogue: 0,0:13:57.10,0:14:00.30,Default,,0,0,0,,Right? I mean, her stall's rather—I mean, let's—
+Dialogue: 0,0:14:00.30,0:14:04.53,Default,,0,0,0,,I suppose we could ask, right? There's no harm in\Nasking, you know, and also I'm starving.
+Dialogue: 0,0:14:04.53,0:14:07.69,Default,,0,0,0,,Yes! Okay. Jude, what do you want? Do you want one of\Nthe legs?
+Dialogue: 0,0:14:07.69,0:14:10.07,Default,,0,0,0,,I mean, I know you like a leg, or...?
+Dialogue: 0,0:14:10.07,0:14:12.78,Default,,0,0,0,,Do you want something a bit more, you know, low key?
+Dialogue: 0,0:14:13.41,0:14:14.82,Default,,0,0,0,,I will take a leg.
+Dialogue: 0,0:14:14.82,0:14:15.43,Default,,0,0,0,,Okay, okay.
+Dialogue: 0,0:14:15.43,0:14:15.61,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:14:15.61,0:14:17.34,Default,,0,0,0,,Okay, I'll get you a leg, I'll get you a leg, okay.
+Dialogue: 0,0:14:17.34,0:14:22.71,Default,,0,0,0,,Umm, can we have three... three of the legs, please?\NThose ones? The ones right there—the big ones.
+Dialogue: 0,0:14:24.42,0:14:28.15,Default,,0,0,0,,She pulls down three big legs and smiles at you.
+Dialogue: 0,0:14:28.15,0:14:32.55,Default,,0,0,0,,She recognises all three of you. Gives you a nod of\Nrespect.
+Dialogue: 0,0:14:33.77,0:14:35.84,Default,,0,0,0,,I take out some money.
+Dialogue: 0,0:14:35.84,0:14:40.73,Default,,0,0,0,,She shakes her head, and: "No, no, no, no. That won't\Nbe necessary."
+Dialogue: 0,0:14:40.73,0:14:41.64,Default,,0,0,0,,Please, please I—Please.
+Dialogue: 0,0:14:41.64,0:14:42.90,Default,,0,0,0,,—No. I insist.
+Dialogue: 0,0:14:42.90,0:14:46.88,Default,,0,0,0,,[sheepishly] But I... also insist...?
+Dialogue: 0,0:14:48.32,0:14:49.53,Default,,0,0,0,,She frowns a little bit—
+Dialogue: 0,0:14:48.90,0:14:55.86,Default,,0,0,0,,Mmm. Okay.
+Dialogue: 0,0:14:49.53,0:14:50.24,Default,,0,0,0,,[softly] Vega.
+Dialogue: 0,0:14:56.67,0:15:00.09,Default,,0,0,0,,Okay, if—I mean if you really don't want it,\Nthen—that's fine. Um—
+Dialogue: 0,0:15:00.57,0:15:02.82,Default,,0,0,0,,She smiles. "It would be my honor."
+Dialogue: 0,0:15:04.86,0:15:07.26,Default,,0,0,0,,And then she will hand you the legs.
+Dialogue: 0,0:15:08.04,0:15:10.80,Default,,0,0,0,,I, uhh—take mine and I ask her:
+Dialogue: 0,0:15:10.80,0:15:13.11,Default,,0,0,0,,What is it spiced with? It smells—
+Dialogue: 0,0:15:14.55,0:15:16.17,Default,,0,0,0,,smells very moreish.
+Dialogue: 0,0:15:16.17,0:15:20.49,Default,,0,0,0,,Muirin. You recognise it.
+Dialogue: 0,0:15:22.44,0:15:23.46,Default,,0,0,0,,Come again?
+Dialogue: 0,0:15:23.46,0:15:23.59,Default,,0,0,0,,Muirin.
+Dialogue: 0,0:15:23.59,0:15:24.66,Default,,0,0,0,,Muirin?
+Dialogue: 0,0:15:25.89,0:15:26.52,Default,,0,0,0,,—No?
+Dialogue: 0,0:15:27.69,0:15:29.13,Default,,0,0,0,,Just one second.
+Dialogue: 0,0:15:30.66,0:15:34.59,Default,,0,0,0,,She'll turn around and then she's rummaging through\Nkind of behind her stall here.
+Dialogue: 0,0:15:34.59,0:15:39.93,Default,,0,0,0,,And she pulls out a bottle of what looks to be spice,\Nand just simply hands you the whole bottle.
+Dialogue: 0,0:15:41.37,0:15:46.53,Default,,0,0,0,,"Don't add too much, now. Just a little bit. Sprinkle\Nit on top of, you know, whatever.
+Dialogue: 0,0:15:47.85,0:15:51.67,Default,,0,0,0,,And you know if you, if you ever need more, just\Ncome—come on back. It would be my honor."
+Dialogue: 0,0:15:51.67,0:15:52.51,Default,,0,0,0,,—Oh. Oh. I see. Thank you.
+Dialogue: 0,0:15:52.51,0:15:55.54,Default,,0,0,0,,[stammering] I—I mean, I can test it if you'd like? If\Nyou—if you don't trust it. I'll test it for you.
+Dialogue: 0,0:15:55.54,0:15:57.79,Default,,0,0,0,,I should probably do that, anyway. Probably.
+Dialogue: 0,0:15:57.79,0:16:00.94,Default,,0,0,0,,She looks offended when you suggest testing it.
+Dialogue: 0,0:16:00.94,0:16:06.73,Default,,0,0,0,,I think she has assumed you are... refer—you know,\Nreferring to the fact that it might be poisonous for
+Dialogue: 0,0:16:06.73,0:16:07.92,Default,,0,0,0,,Lyr.
+Dialogue: 0,0:16:07.92,0:16:09.24,Default,,0,0,0,,She looks hurt.
+Dialogue: 0,0:16:10.31,0:16:11.79,Default,,0,0,0,,[stammering] I—I didn't mean like that. I just—it, I\Nmean—
+Dialogue: 0,0:16:11.79,0:16:12.33,Default,,0,0,0,,—I take a breath.
+Dialogue: 0,0:16:12.33,0:16:16.98,Default,,0,0,0,,[stammering] We simply meant the flavours, on their\Nown.
+Dialogue: 0,0:16:16.98,0:16:18.27,Default,,0,0,0,,—He's very particular about his food.
+Dialogue: 0,0:16:18.27,0:16:20.18,Default,,0,0,0,,[sheepishly] Sorry.
+Dialogue: 0,0:16:21.98,0:16:25.28,Default,,0,0,0,,Well, it it's the same spice used, uhh, here.
+Dialogue: 0,0:16:27.38,0:16:27.90,Default,,0,0,0,,I see.
+Dialogue: 0,0:16:27.90,0:16:29.57,Default,,0,0,0,,—It's wonderful. Thank you.
+Dialogue: 0,0:16:28.90,0:16:36.67,Default,,0,0,0,,I don't see any harm in that. But, ah—before we leave,\Nmy lady, is everything all right? You seemed...
+Dialogue: 0,0:16:36.67,0:16:38.90,Default,,0,0,0,,quite beside yourself a second ago.
+Dialogue: 0,0:16:37.90,0:16:43.50,Default,,0,0,0,,Go ahead and roll for me.
+Dialogue: 0,0:16:43.50,0:16:47.14,Default,,0,0,0,,We are gonna roll your dyne for the first time.
+Dialogue: 0,0:16:47.14,0:16:47.86,Default,,0,0,0,,My 'dyne'?
+Dialogue: 0,0:16:47.86,0:16:51.04,Default,,0,0,0,,—Yeah, do you have anything in there, in that category?
+Dialogue: 0,0:16:51.04,0:16:52.45,Default,,0,0,0,,Uhh— No, I don't.
+Dialogue: 0,0:16:52.45,0:16:55.96,Default,,0,0,0,,Okay. Go ahead and pop in a skill for me.
+Dialogue: 0,0:16:57.73,0:17:00.44,Default,,0,0,0,,Okay... Pertaining to?
+Dialogue: 0,0:17:00.44,0:17:02.22,Default,,0,0,0,,—And... you don't have to name it right now.
+Dialogue: 0,0:17:02.22,0:17:03.00,Default,,0,0,0,,O- Okay.
+Dialogue: 0,0:17:03.00,0:17:07.47,Default,,0,0,0,,And put it at, umm... 23%, and roll.
+Dialogue: 0,0:17:07.47,0:17:08.42,Default,,0,0,0,,—23?
+Dialogue: 0,0:17:08.42,0:17:09.35,Default,,0,0,0,,Yep.
+Dialogue: 0,0:17:10.07,0:17:11.21,Default,,0,0,0,,All right.
+Dialogue: 0,0:17:11.66,0:17:15.20,Default,,0,0,0,,And you may have a, uhh— a 10% shift, because of your\Nlast success—
+Dialogue: 0,0:17:15.20,0:17:15.84,Default,,0,0,0,,—A 10% shift?
+Dialogue: 0,0:17:15.84,0:17:16.80,Default,,0,0,0,,—Yep, that's right.
+Dialogue: 0,0:17:16.80,0:17:22.71,Default,,0,0,0,,I see. So, if I rolled a 51 with a 10% shift, that\Nmeans I rolled a 41, correct?
+Dialogue: 0,0:17:22.71,0:17:24.05,Default,,0,0,0,,That is correct.
+Dialogue: 0,0:17:24.05,0:17:24.90,Default,,0,0,0,,Okay.
+Dialogue: 0,0:17:24.90,0:17:26.50,Default,,0,0,0,,So it's still a partial success.
+Dialogue: 0,0:17:26.50,0:17:27.09,Default,,0,0,0,,Right.
+Dialogue: 0,0:17:27.51,0:17:31.54,Default,,0,0,0,,Umm, she looks a little confused, and then shakes her\Nhead.
+Dialogue: 0,0:17:31.54,0:17:38.97,Default,,0,0,0,,"No, no, I'm—I'm fine. I've never been better, I'm—we\Nhad a very successful harvest, the festival's great.
+Dialogue: 0,0:17:38.97,0:17:44.16,Default,,0,0,0,,My children are enjoying it, they're off with their\Nmom. It's—it's wonderful."
+Dialogue: 0,0:17:45.60,0:17:46.26,Default,,0,0,0,,I see.
+Dialogue: 0,0:17:46.26,0:17:50.50,Default,,0,0,0,,—But you feel something in the pit of your stomach,\NLyr.
+Dialogue: 0,0:17:50.50,0:17:55.35,Default,,0,0,0,,Like, something is wrong. And you're just not sure\Nwhat.
+Dialogue: 0,0:17:57.21,0:17:58.29,Default,,0,0,0,,Right.
+Dialogue: 0,0:17:58.95,0:18:01.17,Default,,0,0,0,,I let it sit on me for a minute.
+Dialogue: 0,0:18:02.73,0:18:06.00,Default,,0,0,0,,And, ah—then I unfurrow my brows, and I say:
+Dialogue: 0,0:18:06.00,0:18:09.19,Default,,0,0,0,,Very well, ah— have a good Mistfall.
+Dialogue: 0,0:18:09.19,0:18:11.65,Default,,0,0,0,,And I turn around and I go back to my companions.
+Dialogue: 0,0:18:11.65,0:18:13.26,Default,,0,0,0,,—"And you as well."
+Dialogue: 0,0:18:14.49,0:18:19.51,Default,,0,0,0,,As you start to walk away, you can hear she turns\Naround to the stall next and starts immediately being
+Dialogue: 0,0:18:19.51,0:18:19.72,Default,,0,0,0,,like,
+Dialogue: 0,0:18:19.72,0:18:24.28,Default,,0,0,0,,'Oh my God, you know who that was? And they came to me,\Nand they came to my stall, and I gave him some of my
+Dialogue: 0,0:18:24.28,0:18:26.49,Default,,0,0,0,,spices and my spice mix' and blah, blah, blah.
+Dialogue: 0,0:18:26.49,0:18:28.98,Default,,0,0,0,,Yeah, you can hear that—very excited.
+Dialogue: 0,0:18:31.17,0:18:36.79,Default,,0,0,0,,Um, I actually look around for somebody who might be\Nbrowsing without buying anything.
+Dialogue: 0,0:18:36.79,0:18:38.49,Default,,0,0,0,,Somebody who looks wistful.
+Dialogue: 0,0:18:40.14,0:18:42.82,Default,,0,0,0,,I'd like to give them some money.
+Dialogue: 0,0:18:42.82,0:18:43.46,Default,,0,0,0,,Oh, my!
+Dialogue: 0,0:18:43.88,0:18:46.37,Default,,0,0,0,,—and point them towards the stall.
+Dialogue: 0,0:18:47.45,0:18:49.46,Default,,0,0,0,,Tell them to go and get some of that?
+Dialogue: 0,0:18:49.46,0:18:50.58,Default,,0,0,0,,Yeah, so—
+Dialogue: 0,0:18:50.58,0:18:54.45,Default,,0,0,0,,Ohh, I see— to pay for it, because she didn't let you\Npay for yours. I see.
+Dialogue: 0,0:18:54.45,0:18:54.48,Default,,0,0,0,,—Yeah.
+Dialogue: 0,0:18:54.48,0:19:00.53,Default,,0,0,0,,Okay. Go ahead and roll for that. I believe you have a\NCharming skill, do you not?
+Dialogue: 0,0:19:01.46,0:19:01.59,Default,,0,0,0,,Uhh—Yes.
+Dialogue: 0,0:19:01.59,0:19:02.45,Default,,0,0,0,,All right.
+Dialogue: 0,0:19:02.45,0:19:05.24,Default,,0,0,0,,I'll use 'Well Intentioned'.
+Dialogue: 0,0:19:05.24,0:19:06.20,Default,,0,0,0,,All right.
+Dialogue: 0,0:19:12.41,0:19:12.81,Default,,0,0,0,,[in a small voice] Oh.
+Dialogue: 0,0:19:12.81,0:19:15.23,Default,,0,0,0,,What happens, yeah, why? Why does this fail?
+Dialogue: 0,0:19:13.90,0:19:20.62,Default,,0,0,0,,I think I, I find somebody and I think when I walk up\Nto them, they—
+Dialogue: 0,0:19:20.62,0:19:25.06,Default,,0,0,0,,they kind of get that look over their face that like\Nsort of sort of starstruck look, they're like,
+Dialogue: 0,0:19:25.63,0:19:26.90,Default,,0,0,0,,[small gasp] 'Oh, my God', and—
+Dialogue: 0,0:19:26.90,0:19:28.13,Default,,0,0,0,,—And they won't take the money from you either?
+Dialogue: 0,0:19:28.13,0:19:29.36,Default,,0,0,0,,—Yeah, they literally—[laughing] they won't take it—
+Dialogue: 0,0:19:29.36,0:19:31.27,Default,,0,0,0,,—Yeah, okay, all right.
+Dialogue: 0,0:19:34.09,0:19:34.22,Default,,0,0,0,,—Vega.
+Dialogue: 0,0:19:34.22,0:19:35.98,Default,,0,0,0,,—I, ah, wave at them.
+Dialogue: 0,0:19:36.85,0:19:39.80,Default,,0,0,0,,There has to be some way to pay it back, surely. I\Nmean—
+Dialogue: 0,0:19:39.80,0:19:40.21,Default,,0,0,0,,—I think—
+Dialogue: 0,0:19:40.21,0:19:46.75,Default,,0,0,0,,It is the honor of their life, to be graced by Lyr's\Npresence. They don't want money.
+Dialogue: 0,0:19:46.75,0:19:51.61,Default,,0,0,0,,But I mean— He—He's just a person, like you're just\Na—we are just people and they shouldn't—
+Dialogue: 0,0:19:51.61,0:19:53.43,Default,,0,0,0,,He is not just a person.
+Dialogue: 0,0:19:53.43,0:19:55.18,Default,,0,0,0,,And we are not just people.
+Dialogue: 0,0:19:58.33,0:20:00.53,Default,,0,0,0,,We're eating their food the same way everyone else is,\Nwe—
+Dialogue: 0,0:20:00.53,0:20:03.37,Default,,0,0,0,,that we—we should pay for it the same way everyone else\Ndoes.
+Dialogue: 0,0:20:01.90,0:20:06.10,Default,,0,0,0,,Jude: —I understand the principle.
+Dialogue: 0,0:20:06.97,0:20:09.47,Default,,0,0,0,,Lyr: —We do pay for it.
+Dialogue: 0,0:20:09.47,0:20:09.60,Default,,0,0,0,,Yes.
+Dialogue: 0,0:20:09.60,0:20:10.82,Default,,0,0,0,,In our own way.
+Dialogue: 0,0:20:13.86,0:20:16.50,Default,,0,0,0,,Okay. You're probably right.
+Dialogue: 0,0:20:16.50,0:20:21.61,Default,,0,0,0,,I mean—maybe I can convince the kitchen cooks to buy\Nsome of her spices, or something.
+Dialogue: 0,0:20:21.61,0:20:23.70,Default,,0,0,0,,Would you accept money from Lyr?
+Dialogue: 0,0:20:25.65,0:20:28.62,Default,,0,0,0,,If he insisted to pay you for what you're doing.
+Dialogue: 0,0:20:29.42,0:20:31.59,Default,,0,0,0,,[Vega noises] W—Well I mean that's just silly, Jude,\Nbecause I—he wouldn't—
+Dialogue: 0,0:20:31.59,0:20:32.61,Default,,0,0,0,,—I fish into my pouch.
+Dialogue: 0,0:20:32.61,0:20:36.00,Default,,0,0,0,,[grinning] Lyr, no. I'm making a point.
+Dialogue: 0,0:20:36.00,0:20:39.02,Default,,0,0,0,,R—Right, right. Right.
+Dialogue: 0,0:20:37.90,0:20:42.22,Default,,0,0,0,,—There'd be never a reason why you'd pay me anyway. I\Nmean, you know—wha—I—
+Dialogue: 0,0:20:42.22,0:20:47.55,Default,,0,0,0,,this is my job, I do this— Because this is what I was\Nmade to do.
+Dialogue: 0,0:20:47.55,0:20:48.88,Default,,0,0,0,,Why would he ever pay me?
+Dialogue: 0,0:20:48.88,0:20:53.44,Default,,0,0,0,,I suppose what Jude is trying to say is, consider it\Nfrom that perspective.
+Dialogue: 0,0:20:54.01,0:20:57.76,Default,,0,0,0,,What she's doing is: she's serving Blakegard.
+Dialogue: 0,0:20:58.57,0:21:04.19,Default,,0,0,0,,And, by giving you something, she's giving herself\Nsomething.
+Dialogue: 0,0:21:04.19,0:21:09.59,Default,,0,0,0,,It's all very self-serving, I know, but... it's life.
+Dialogue: 0,0:21:09.59,0:21:17.31,Default,,0,0,0,,[sigh] I guess. Right.
+Dialogue: 0,0:21:17.31,0:21:19.91,Default,,0,0,0,,I'm sorry that's not what you want to hear, Vega.
+Dialogue: 0,0:21:22.01,0:21:22.68,Default,,0,0,0,,Anyway.
+Dialogue: 0,0:21:22.68,0:21:24.22,Default,,0,0,0,,—It's fine.
+Dialogue: 0,0:21:24.22,0:21:25.32,Default,,0,0,0,,Is there something to do?
+Dialogue: 0,0:21:25.32,0:21:25.88,Default,,0,0,0,,Hmm?
+Dialogue: 0,0:21:28.77,0:21:35.83,Default,,0,0,0,,I walk past the stand like—very audibly enjoying the\Nleg instead, just like—
+Dialogue: 0,0:21:35.83,0:21:41.49,Default,,0,0,0,,Mmm! This is delicious. This is the best thing I've had\Nin a month. This is the best—Wow.
+Dialogue: 0,0:21:41.49,0:21:45.05,Default,,0,0,0,,The spicing? Perfect. Moist, delicious.
+Dialogue: 0,0:21:45.05,0:21:47.34,Default,,0,0,0,,Like— being very obvious.
+Dialogue: 0,0:21:47.34,0:21:47.87,Default,,0,0,0,,[chuckle]
+Dialogue: 0,0:21:48.50,0:21:50.70,Default,,0,0,0,,As for something to do, Lyr...
+Dialogue: 0,0:21:50.70,0:21:51.08,Default,,0,0,0,,Right.
+Dialogue: 0,0:21:51.08,0:21:58.62,Default,,0,0,0,,You can choose to join in a duelling tournament. You\Ncan go to the shallows and see the turtles and do the
+Dialogue: 0,0:21:58.62,0:22:03.86,Default,,0,0,0,,stargazing, or anything else that you fancy right now.\NIt's a time of celebration.
+Dialogue: 0,0:22:03.86,0:22:04.94,Default,,0,0,0,,Okay.
+Dialogue: 0,0:22:04.94,0:22:07.43,Default,,0,0,0,,You can play games, anything you like.
+Dialogue: 0,0:22:07.43,0:22:14.76,Default,,0,0,0,,Okay, I mean, I as for duels, I imagine there might be\Na melee here somewhere, or uhh— I don't know how umm—
+Dialogue: 0,0:22:14.76,0:22:14.94,Default,,0,0,0,,—[happy gasps]
+Dialogue: 0,0:22:14.94,0:22:17.03,Default,,0,0,0,,I know you'd be happy about that, wouldn't you, Vega?
+Dialogue: 0,0:22:15.90,0:22:20.65,Default,,0,0,0,,No—no we can't— we can't. We couldn't do a duel because\Nthey would—
+Dialogue: 0,0:22:20.65,0:22:23.87,Default,,0,0,0,,But do you think they would really fight properly\Nagainst us?
+Dialogue: 0,0:22:23.87,0:22:27.43,Default,,0,0,0,,Do you think they'd want us to win, and they wouldn't,\Nyou know...
+Dialogue: 0,0:22:27.43,0:22:30.18,Default,,0,0,0,,They wouldn't be a real challenge! They'd be pulling\Ntheir punches.
+Dialogue: 0,0:22:30.18,0:22:32.76,Default,,0,0,0,,How about a spectacle, then, in that case?
+Dialogue: 0,0:22:33.87,0:22:34.00,Default,,0,0,0,,—Okay?
+Dialogue: 0,0:22:34.00,0:22:35.91,Default,,0,0,0,,I think this is a terrible idea.
+Dialogue: 0,0:22:37.90,0:22:43.63,Default,,0,0,0,,Come on, Jude.
+Dialogue: 0,0:22:37.98,0:22:39.03,Default,,0,0,0,,W-what, why so?
+Dialogue: 0,0:22:44.83,0:22:47.09,Default,,0,0,0,,Come on! Come on, come on, come on, come on, it could\Nbe really fun!
+Dialogue: 0,0:22:47.09,0:22:49.97,Default,,0,0,0,,You, you and me, could fight in the middle of the ring.
+Dialogue: 0,0:22:49.97,0:22:53.56,Default,,0,0,0,,We could put on a show—we can show off some of the\Nthings we've learned—
+Dialogue: 0,0:22:54.52,0:22:55.72,Default,,0,0,0,,How about it?
+Dialogue: 0,0:22:56.14,0:22:57.28,Default,,0,0,0,,—How about it, Jude?
+Dialogue: 0,0:23:00.49,0:23:03.07,Default,,0,0,0,,Well, they seem so excited and happy.
+Dialogue: 0,0:23:04.03,0:23:04.79,Default,,0,0,0,,—Why aren't you?
+Dialogue: 0,0:23:04.79,0:23:05.95,Default,,0,0,0,,All right—
+Dialogue: 0,0:23:06.85,0:23:13.91,Default,,0,0,0,,Well, I think it could potentially be dangerous or\Nmaybe bad for appearances. But—
+Dialogue: 0,0:23:13.91,0:23:16.27,Default,,0,0,0,,—Why would it be bad for appearances?
+Dialogue: 0,0:23:18.97,0:23:19.84,Default,,0,0,0,,Hmm.
+Dialogue: 0,0:23:19.84,0:23:22.87,Default,,0,0,0,,Doesn't everyone want to see the potential future king\Nwin?
+Dialogue: 0,0:23:24.88,0:23:25.43,Default,,0,0,0,,—That is true.
+Dialogue: 0,0:23:25.43,0:23:26.80,Default,,0,0,0,,—See how strong he is?
+Dialogue: 0,0:23:28.81,0:23:34.31,Default,,0,0,0,,That is true. All right. All right.
+Dialogue: 0,0:23:34.31,0:23:35.92,Default,,0,0,0,,—[excited] All right?
+Dialogue: 0,0:23:38.68,0:23:41.78,Default,,0,0,0,,—All right, then. How do we set this up, then?
+Dialogue: 0,0:23:41.78,0:23:42.74,Default,,0,0,0,,—We can do it?!
+Dialogue: 0,0:23:42.74,0:23:44.17,Default,,0,0,0,,Okay—Okay, I have an idea. Okay—All right—
+Dialogue: 0,0:23:44.17,0:23:47.41,Default,,0,0,0,,First things first, me and Jude can fight, and then the\Nwinner
+Dialogue: 0,0:23:47.41,0:23:50.38,Default,,0,0,0,,—you know we can make it a show we don't have to really\Nlike, hurt each other—
+Dialogue: 0,0:23:50.38,0:23:55.58,Default,,0,0,0,,and then the winner can go against Lyr, and then you,\Nwell, you know, we'll set it up so you win at the end
+Dialogue: 0,0:23:55.58,0:23:57.40,Default,,0,0,0,,and it looks really cool and awesome.
+Dialogue: 0,0:23:58.27,0:23:58.46,Default,,0,0,0,,[deep sigh]
+Dialogue: 0,0:23:58.46,0:24:01.22,Default,,0,0,0,,You—I mean, obviously you will win anyway because\Nyou're the best, but...
+Dialogue: 0,0:24:01.22,0:24:04.54,Default,,0,0,0,,we just want to make sure that—that it would definitely\Nhappen, right?
+Dialogue: 0,0:24:05.26,0:24:06.56,Default,,0,0,0,,Sure.
+Dialogue: 0,0:24:06.56,0:24:12.07,Default,,0,0,0,,Okay, so how do we do it? I—I'm no town crier, should\Nwe just...?
+Dialogue: 0,0:24:12.67,0:24:14.62,Default,,0,0,0,,All right, how about this?
+Dialogue: 0,0:24:14.62,0:24:18.47,Default,,0,0,0,,Fetch your armor, both of you and, ah—well there's a\Nclearing over there I think they're using for
+Dialogue: 0,0:24:18.47,0:24:19.94,Default,,0,0,0,,announcements.
+Dialogue: 0,0:24:19.94,0:24:30.20,Default,,0,0,0,,I suppose if, you know, two of, ah, Lyr vin Bring—ah,\NBlakegard's, ah, [laugh] wards—
+Dialogue: 0,0:24:30.20,0:24:35.41,Default,,0,0,0,,were to, you know, start, ah—preparing, perhaps maybe.\Nyou know?
+Dialogue: 0,0:24:37.18,0:24:40.06,Default,,0,0,0,,Maybe we'll draw a crowd. Naturally.
+Dialogue: 0,0:24:42.25,0:24:49.36,Default,,0,0,0,,Okay, okay. Okay. So— can I finish the leg first though\N'cause I need it for like fuel, you know, to fight?
+Dialogue: 0,0:24:49.36,0:24:50.62,Default,,0,0,0,,Do what you will.
+Dialogue: 0,0:24:50.62,0:24:51.49,Default,,0,0,0,,Okay.
+Dialogue: 0,0:24:52.45,0:24:55.51,Default,,0,0,0,,Just tearing into it like a feral child.
+Dialogue: 0,0:24:57.76,0:25:01.22,Default,,0,0,0,,No decorum, dripping all over my cloak. [gremlin\Nnoises]
+Dialogue: 0,0:25:01.22,0:25:01.75,Default,,0,0,0,,—Okay.
+Dialogue: 0,0:25:03.25,0:25:07.12,Default,,0,0,0,,I will take us immediately to the beginning of this.
+Dialogue: 0,0:25:07.12,0:25:10.60,Default,,0,0,0,,So... what does your armor look like, both of you?
+Dialogue: 0,0:25:14.95,0:25:22.91,Default,,0,0,0,,I like to think it's very show armour, and it would be\Nvery ornate.
+Dialogue: 0,0:25:22.91,0:25:29.00,Default,,0,0,0,,But on the pauldrons there's like little painted\Nflowers?
+Dialogue: 0,0:25:29.00,0:25:34.63,Default,,0,0,0,,Very carefully decorated, colourful, but it's still\Npredominantly blue and gold.
+Dialogue: 0,0:25:36.80,0:25:39.33,Default,,0,0,0,,Jude, I'm assuming yours matches? Is that correct?
+Dialogue: 0,0:25:39.33,0:25:40.88,Default,,0,0,0,,Yes, it does. Yes.
+Dialogue: 0,0:25:40.88,0:25:47.12,Default,,0,0,0,,Tell me about your pins. You see the pins on your\Ncloak?
+Dialogue: 0,0:25:45.90,0:25:52.50,Default,,0,0,0,,They're, umm, markers of the ward.
+Dialogue: 0,0:25:54.15,0:25:56.07,Default,,0,0,0,,The wardship that we have.
+Dialogue: 0,0:25:57.36,0:25:59.34,Default,,0,0,0,,They're our promise, to Lyr.
+Dialogue: 0,0:26:00.63,0:26:02.31,Default,,0,0,0,,Do you like them?
+Dialogue: 0,0:26:03.15,0:26:03.28,Default,,0,0,0,,—Yes.
+Dialogue: 0,0:26:03.28,0:26:06.84,Default,,0,0,0,,Or do you pay them no mind. Okay, interesting. Thank\Nyou.
+Dialogue: 0,0:26:05.90,0:26:10.49,Default,,0,0,0,,All right, so who is duelling first?
+Dialogue: 0,0:26:10.49,0:26:16.10,Default,,0,0,0,,Essentially, it's gonna be— if I'm understanding this\Ncorrectly, it's going to be Jude and Vega.
+Dialogue: 0,0:26:16.10,0:26:20.78,Default,,0,0,0,,And then whoever wins that is going to then fight Lyr.\NCorrect?
+Dialogue: 0,0:26:21.29,0:26:21.89,Default,,0,0,0,,Yes.
+Dialogue: 0,0:26:21.89,0:26:24.35,Default,,0,0,0,,Great. Let's see what you can do.
+Dialogue: 0,0:26:24.35,0:26:30.15,Default,,0,0,0,,From this moment forward, I'm going to assume that all\Ndamage that you are doing is you know, subdual damage.
+Dialogue: 0,0:26:30.15,0:26:32.96,Default,,0,0,0,,It's not intended to harm or to kill.
+Dialogue: 0,0:26:34.71,0:26:36.99,Default,,0,0,0,,But let's see how you start this fight.
+Dialogue: 0,0:26:35.90,0:26:36.98,Default,,0,0,0,,[♪ music stops ♪]
+Dialogue: 0,0:26:42.05,0:26:47.06,Default,,0,0,0,,I think we start across from each other, and give a\Nsort of little head bow.
+Dialogue: 0,0:26:47.81,0:26:48.18,Default,,0,0,0,,And then Vega—
+Dialogue: 0,0:26:48.18,0:26:48.42,Default,,0,0,0,,—I imagine a—
+Dialogue: 0,0:26:48.42,0:26:49.28,Default,,0,0,0,,[crowd starts cheering]
+Dialogue: 0,0:26:50.09,0:26:54.68,Default,,0,0,0,,—A stage, just before you, where people use for\Nannouncements during the festival.
+Dialogue: 0,0:26:54.68,0:27:01.88,Default,,0,0,0,,And there's a chair. And I just get on top and sit\Ndown. One leg, my right leg over my left knee.
+Dialogue: 0,0:27:01.88,0:27:07.13,Default,,0,0,0,,And before me, just in front of this stage, are you\Ntwo, squaring off.
+Dialogue: 0,0:27:08.54,0:27:12.69,Default,,0,0,0,,I keep one eye on Lyr, pretty much the whole time\Nduring the whole fight.
+Dialogue: 0,0:27:12.69,0:27:16.34,Default,,0,0,0,,In fact, I don't think I would get him—he wouldn't—I\Nwould never have my back to Lyr.
+Dialogue: 0,0:27:16.34,0:27:19.70,Default,,0,0,0,,I would always be— making sure he's there, and he's\Nsafe.
+Dialogue: 0,0:27:20.24,0:27:22.25,Default,,0,0,0,,—Okay. This is interesting.
+Dialogue: 0,0:27:22.25,0:27:27.18,Default,,0,0,0,,Because initially, I would consider giving you a minus\N10 shift for everything you do, because you're paying
+Dialogue: 0,0:27:27.18,0:27:28.94,Default,,0,0,0,,attention to Lyr, but also,
+Dialogue: 0,0:27:28.94,0:27:32.84,Default,,0,0,0,,you're fighting Jude and you really trust her\Nimplicitly.
+Dialogue: 0,0:27:32.84,0:27:38.57,Default,,0,0,0,,And that would have probably given you a plus 10. So\NI'm actually just going to say it's an even wash.
+Dialogue: 0,0:27:39.56,0:27:41.56,Default,,0,0,0,,Jude, you're the same, I assume?
+Dialogue: 0,0:27:41.56,0:27:43.37,Default,,0,0,0,,Yes, I am.
+Dialogue: 0,0:27:43.37,0:27:45.25,Default,,0,0,0,,All right, let's see what you've got.
+Dialogue: 0,0:27:45.25,0:27:46.58,Default,,0,0,0,,Roll initiative.
+Dialogue: 0,0:27:48.29,0:27:49.46,Default,,0,0,0,,[♪ fighting music starts ♪]
+Dialogue: 0,0:27:54.83,0:27:56.33,Default,,0,0,0,,Who's going first?
+Dialogue: 0,0:27:57.41,0:27:58.04,Default,,0,0,0,,Ooh.
+Dialogue: 0,0:27:58.58,0:28:05.52,Default,,0,0,0,,Um, I think we'll have practised some techniques\Nbefore, and we'd fall into a familiar pattern.
+Dialogue: 0,0:28:05.52,0:28:07.31,Default,,0,0,0,,And I think Jude would go first.
+Dialogue: 0,0:28:08.03,0:28:11.45,Default,,0,0,0,,Yes, we spar very frequently.
+Dialogue: 0,0:28:11.45,0:28:20.72,Default,,0,0,0,,And I'm sort of constantly trying to teach you the same\Nfive things that I know are your weakness.
+Dialogue: 0,0:28:21.11,0:28:22.34,Default,,0,0,0,,—And those are?
+Dialogue: 0,0:28:24.86,0:28:28.31,Default,,0,0,0,,She's a bit weak. On the right.
+Dialogue: 0,0:28:29.57,0:28:36.71,Default,,0,0,0,,She has a tendency to get distracted by my blade and\Nnot my footwork.
+Dialogue: 0,0:28:37.52,0:28:41.17,Default,,0,0,0,,She doesn't really keep an eye on where I'm going.
+Dialogue: 0,0:28:41.17,0:28:41.64,Default,,0,0,0,,—Just where you are? Got it.
+Dialogue: 0,0:28:41.64,0:28:45.14,Default,,0,0,0,,—Not five steps ahead, just where I am. Yeah.
+Dialogue: 0,0:28:46.61,0:28:53.42,Default,,0,0,0,,So I'm going to give her an easy shot. I'm going to\Njust sort of lunge forward straight.
+Dialogue: 0,0:28:53.42,0:28:55.55,Default,,0,0,0,,Take a big step before I do.
+Dialogue: 0,0:28:58.55,0:29:00.26,Default,,0,0,0,,Go ahead and roll your attack.
+Dialogue: 0,0:29:01.73,0:29:02.45,Default,,0,0,0,,[groans]
+Dialogue: 0,0:29:06.02,0:29:06.87,Default,,0,0,0,,Why does this fail?
+Dialogue: 0,0:29:06.87,0:29:12.96,Default,,0,0,0,,—Come on, Vega, hold no quarter! Come on! [laughing]
+Dialogue: 0,0:29:12.96,0:29:16.40,Default,,0,0,0,,Umm. Hmm...
+Dialogue: 0,0:29:18.05,0:29:26.15,Default,,0,0,0,,I think I'm very focused on the fact that this is not\Nreal.
+Dialogue: 0,0:29:26.15,0:29:30.60,Default,,0,0,0,,It that it's for show and I don't think I'm a very good\Nperformer.
+Dialogue: 0,0:29:30.60,0:29:39.23,Default,,0,0,0,,I think I work best when I feel there's utility\Ndirectly to what I'm doing.
+Dialogue: 0,0:29:39.23,0:29:45.06,Default,,0,0,0,,And so I think I, uh, I overcorrect.
+Dialogue: 0,0:29:45.06,0:29:51.98,Default,,0,0,0,,Trying to create more of a performance out of it to\Nmake it seem really big but then I just completely
+Dialogue: 0,0:29:53.00,0:29:56.16,Default,,0,0,0,,lean, veer off to the side.
+Dialogue: 0,0:29:56.16,0:29:58.89,Default,,0,0,0,,—I have suddenly decided, sorry to interrupt you, Jude—
+Dialogue: 0,0:29:58.89,0:29:59.16,Default,,0,0,0,,—Yes, of course.
+Dialogue: 0,0:29:59.16,0:30:01.91,Default,,0,0,0,,—I have suddenly decided we are changing the way this\Ngoes down.
+Dialogue: 0,0:30:01.91,0:30:08.90,Default,,0,0,0,,When you fail, it is not that you do not connect, it's\Nthat it is not flourished for performance.
+Dialogue: 0,0:30:08.90,0:30:12.15,Default,,0,0,0,,Because of the way you said, so this just looks like a\Nstandard attack.
+Dialogue: 0,0:30:09.20,0:30:09.95,Default,,0,0,0,,Oh, okay.
+Dialogue: 0,0:30:12.15,0:30:17.07,Default,,0,0,0,,You hit, but there's no added flourish to it. It's not\Nexaggerated for the audience.
+Dialogue: 0,0:30:17.07,0:30:17.16,Default,,0,0,0,,—Got it.
+Dialogue: 0,0:30:17.16,0:30:20.21,Default,,0,0,0,,You know how, like, have you ever done stage combat\Nbefore?
+Dialogue: 0,0:30:22.19,0:30:23.43,Default,,0,0,0,,Personally, no.
+Dialogue: 0,0:30:23.43,0:30:29.94,Default,,0,0,0,,Okay, so oftentimes, you will overexaggerate your\Nswings and your movements so the audience can watch it.
+Dialogue: 0,0:30:29.94,0:30:34.22,Default,,0,0,0,,So, yours is just a regular swing, like as if you were\Nin actual combat.
+Dialogue: 0,0:30:34.22,0:30:36.65,Default,,0,0,0,,Got it, okay. Then, yes.
+Dialogue: 0,0:30:38.45,0:30:40.53,Default,,0,0,0,,Vega, what does your dodge look like?
+Dialogue: 0,0:30:40.53,0:30:44.72,Default,,0,0,0,,You don't even have to roll for it. Because this, there\Nwas no flourish here.
+Dialogue: 0,0:30:45.56,0:30:48.32,Default,,0,0,0,,Um, it is...
+Dialogue: 0,0:30:53.39,0:31:00.98,Default,,0,0,0,,Sort of, I go on my tiptoe and like... pull my, my back\Nleg forward. So I kind of...
+Dialogue: 0,0:31:00.98,0:31:06.54,Default,,0,0,0,,It's like a really smooth move where I essentially just\Nlike I'm sliding, and it's done at quite a speed as
+Dialogue: 0,0:31:06.54,0:31:06.72,Default,,0,0,0,,well.
+Dialogue: 0,0:31:06.72,0:31:09.53,Default,,0,0,0,,So it's almost like I umm— I just shift backwards.
+Dialogue: 0,0:31:12.71,0:31:14.10,Default,,0,0,0,,I like that.
+Dialogue: 0,0:31:14.10,0:31:15.77,Default,,0,0,0,,Are you going to attack now?
+Dialogue: 0,0:31:17.30,0:31:18.60,Default,,0,0,0,,Or are you going to let her attack again?
+Dialogue: 0,0:31:18.60,0:31:19.13,Default,,0,0,0,,—I...
+Dialogue: 0,0:31:21.38,0:31:27.21,Default,,0,0,0,,I think I would, rather than attack, I would spin\Naround her very theatrically.
+Dialogue: 0,0:31:27.21,0:31:29.63,Default,,0,0,0,,Okay. Go ahead and roll for that.
+Dialogue: 0,0:31:30.95,0:31:33.32,Default,,0,0,0,,—Can I use my initiative roll, for this?
+Dialogue: 0,0:31:33.32,0:31:37.95,Default,,0,0,0,,—You may, you may. Is it—your, your initiative is\Ndodge, correct?
+Dialogue: 0,0:31:37.95,0:31:38.64,Default,,0,0,0,,—Yeah, 'Fancy Footwork'.
+Dialogue: 0,0:31:38.64,0:31:45.62,Default,,0,0,0,,—Yep. Yep. Let's go, 'Fancy Footwork'. Look at that!\N[cheering] Wo-hoo!
+Dialogue: 0,0:31:44.90,0:31:51.96,Default,,0,0,0,,Yeah, so this is extremely theatrical. And in fact, in\Ndoing this, I try and correct for Jude's, 'formality',
+Dialogue: 0,0:31:51.96,0:31:52.58,Default,,0,0,0,,almost?
+Dialogue: 0,0:31:52.58,0:31:59.97,Default,,0,0,0,,And I kind of, with the tip of my blade, I would meet\Nthe tip of her blade and, almost like pirouette and a
+Dialogue: 0,0:31:59.97,0:32:01.28,Default,,0,0,0,,dancer style,
+Dialogue: 0,0:32:01.28,0:32:07.58,Default,,0,0,0,,in a flurry around to the other side of her, but kind\Nof trying to bring her with me.
+Dialogue: 0,0:32:07.58,0:32:09.36,Default,,0,0,0,,So it looks like we're in sync the entire time.
+Dialogue: 0,0:32:09.36,0:32:11.36,Default,,0,0,0,,Yes, I like that. Okay.
+Dialogue: 0,0:32:11.36,0:32:17.56,Default,,0,0,0,,The audience reacts to you. They're clapping, and\Ncheering, and very excited by this.
+Dialogue: 0,0:32:17.56,0:32:19.28,Default,,0,0,0,,Would you look at that! [laughing]
+Dialogue: 0,0:32:22.97,0:32:24.26,Default,,0,0,0,,Jude, you're up.
+Dialogue: 0,0:32:25.43,0:32:26.60,Default,,0,0,0,,Okay.
+Dialogue: 0,0:32:27.29,0:32:29.84,Default,,0,0,0,,After she's done that, I feel a bit, um—
+Dialogue: 0,0:32:30.77,0:32:36.14,Default,,0,0,0,,I think I feel a bit awkward. Especially with how fluid\Nshe is.
+Dialogue: 0,0:32:36.14,0:32:38.24,Default,,0,0,0,,I've kind of been whipped around.
+Dialogue: 0,0:32:39.29,0:32:44.81,Default,,0,0,0,,I will lunge once more, blade up and forward.
+Dialogue: 0,0:32:51.05,0:32:52.71,Default,,0,0,0,,Partial success; what happens?
+Dialogue: 0,0:32:52.71,0:32:57.00,Default,,0,0,0,,So now you're getting into it, now you've got a bit\Nmore showmanship. What do we see?
+Dialogue: 0,0:32:57.00,0:33:00.47,Default,,0,0,0,,Yes. I think I...
+Dialogue: 0,0:33:02.39,0:33:09.51,Default,,0,0,0,,Lunge forward and throw my cape behind me in order to\Ndo it.
+Dialogue: 0,0:33:09.51,0:33:15.56,Default,,0,0,0,,And I'm sort of in a very traditional but heroic pose\Nas I land.
+Dialogue: 0,0:33:20.99,0:33:23.10,Default,,0,0,0,,Now there's my drill instructor, ha-ha!
+Dialogue: 0,0:33:23.10,0:33:25.22,Default,,0,0,0,,—Do you look—Yeah, do you look into the crowd, Jude?
+Dialogue: 0,0:33:25.73,0:33:27.86,Default,,0,0,0,,No, I'm keeping my eyes on Vega.
+Dialogue: 0,0:33:27.86,0:33:32.81,Default,,0,0,0,,Okay. All right, Vega, you're up.
+Dialogue: 0,0:33:33.77,0:33:39.71,Default,,0,0,0,,I will attempt to parry with a flourish, I think.
+Dialogue: 0,0:33:39.71,0:33:40.67,Default,,0,0,0,,All right.
+Dialogue: 0,0:33:41.12,0:33:43.52,Default,,0,0,0,,Uhm, which? I will use—
+Dialogue: 0,0:33:44.54,0:33:46.85,Default,,0,0,0,,I'm gonna use ‘Unorthodox Practices’.
+Dialogue: 0,0:33:47.81,0:33:52.29,Default,,0,0,0,,Because I feel like you wouldn't usually try and parry\Nthis manoeuvre in normal training, but I'm not using
+Dialogue: 0,0:33:52.29,0:33:52.80,Default,,0,0,0,,normal training.
+Dialogue: 0,0:33:52.80,0:33:54.47,Default,,0,0,0,,—Okay, I like that, I like that. Okay.
+Dialogue: 0,0:33:54.47,0:34:03.14,Default,,0,0,0,,Ooh, 19. May I convince you—you got a, you got a 10\Nshift earlier—May I convince you to use that right now?
+Dialogue: 0,0:34:03.65,0:34:04.05,Default,,0,0,0,,—Yeah, why not.
+Dialogue: 0,0:34:04.05,0:34:07.04,Default,,0,0,0,,—Okay. So that makes it a full on success.
+Dialogue: 0,0:34:07.94,0:34:13.73,Default,,0,0,0,,You use magic for this flourishing attack. What are you\Ndoing and what does it look like?
+Dialogue: 0,0:34:14.57,0:34:23.40,Default,,0,0,0,,Uhh, as I meet the blade again, in a parry, there's a\Ndowndraft of air, and the dust around us kind of like
+Dialogue: 0,0:34:23.40,0:34:25.20,Default,,0,0,0,,wooshes out extremely dramatically.
+Dialogue: 0,0:34:25.20,0:34:29.25,Default,,0,0,0,,Our capes start flying in the wind. And I use that as\Nmomentum to—
+Dialogue: 0,0:34:29.25,0:34:31.61,Default,,0,0,0,,[in the distance, cheering] —Did you see that?
+Dialogue: 0,0:34:31.61,0:34:33.78,Default,,0,0,0,,—Move backwards into a better position.
+Dialogue: 0,0:34:33.78,0:34:36.86,Default,,0,0,0,,[in the distance] —That's our Vega!
+Dialogue: 0,0:34:37.94,0:34:43.38,Default,,0,0,0,,And you hear a lot of ‘oohs' and ‘ahhs' in the crowd as\Nwell, because it's not often they get to see wards
+Dialogue: 0,0:34:43.38,0:34:48.63,Default,,0,0,0,,fighting each other, other than practice, and they\Ncertainly don't get to see magic in combat.
+Dialogue: 0,0:34:48.63,0:34:53.82,Default,,0,0,0,,[laughing] Come on, Jude.
+Dialogue: 0,0:34:53.82,0:34:56.87,Default,,0,0,0,,[in the distance, laughing] If I had hair, it'd be\Nbillowing!
+Dialogue: 0,0:34:57.50,0:34:58.73,Default,,0,0,0,,You're up, Jude.
+Dialogue: 0,0:35:00.75,0:35:04.24,Default,,0,0,0,,Well, now, I'm, sort of, getting into the spirit of\Nthings.
+Dialogue: 0,0:35:04.24,0:35:14.13,Default,,0,0,0,,And Vega is...uh... not only formidable but\Nvery...entrancing, especially when she uses her magic.
+Dialogue: 0,0:35:14.13,0:35:21.75,Default,,0,0,0,,And so I think I'm going to try taking a page out of\Nher book, and...
+Dialogue: 0,0:35:21.75,0:35:32.95,Default,,0,0,0,,Sort of disconnect our swords and spin around to kind\Nof wield my sword to aim for her... head.
+Dialogue: 0,0:35:32.95,0:35:34.54,Default,,0,0,0,,Obviously, I'm not going to keep the blade—
+Dialogue: 0,0:35:34.54,0:35:38.74,Default,,0,0,0,,—Yeah, no— No, it's fine, it's okay. Don't worry. But\Nyeah, for all intents, I know that you're not trying to
+Dialogue: 0,0:35:38.74,0:35:39.90,Default,,0,0,0,,hurt anyone.
+Dialogue: 0,0:35:39.90,0:35:46.56,Default,,0,0,0,,You can have a 20% shift. The magic in the air excites\Nyou, I think.
+Dialogue: 0,0:35:49.92,0:35:52.65,Default,,0,0,0,,Holy shit, that's a 2.
+Dialogue: 0,0:35:52.65,0:35:57.24,Default,,0,0,0,,Oh my god, all right. Okay, what happens? What happens?
+Dialogue: 0,0:35:57.24,0:36:00.84,Default,,0,0,0,,Magic will also be in this attack as well, so what do\Nwe see?
+Dialogue: 0,0:36:02.25,0:36:03.93,Default,,0,0,0,,I think I...
+Dialogue: 0,0:36:05.52,0:36:10.20,Default,,0,0,0,,My magic, I feel, can create sort of...defences.
+Dialogue: 0,0:36:10.20,0:36:20.01,Default,,0,0,0,,And so I feel like, maybe, where she brought wind down,\Nmy magic almost helps create a push of wind to
+Dialogue: 0,0:36:20.52,0:36:22.50,Default,,0,0,0,,disconnect her sword from mine.
+Dialogue: 0,0:36:22.50,0:36:32.25,Default,,0,0,0,,As I quickly spin around her and, kind of crouched\Ndown, having my sword to her neck.
+Dialogue: 0,0:36:32.25,0:36:37.65,Default,,0,0,0,,And I'm gonna look at her over my shoulder as I do it.
+Dialogue: 0,0:36:38.52,0:36:42.72,Default,,0,0,0,,And I'm grinning like—I'm so pleased.
+Dialogue: 0,0:36:43.56,0:36:45.54,Default,,0,0,0,,I'm ecstatic for Jude.
+Dialogue: 0,0:36:48.09,0:36:56.70,Default,,0,0,0,,I am—I imagine the counter force of the— her gust\Nagainst hers causes this, this wave that kind of blasts
+Dialogue: 0,0:36:56.70,0:36:57.37,Default,,0,0,0,,either way,
+Dialogue: 0,0:36:57.37,0:37:02.20,Default,,0,0,0,,so like, not towards her, not towards her, but towards,\Nlike, the sides and I'm just there in the crowd, on the
+Dialogue: 0,0:37:02.20,0:37:05.79,Default,,0,0,0,,stage with my face kind of billowing like, like going\Nlike mach 3.
+Dialogue: 0,0:37:05.79,0:37:13.84,Default,,0,0,0,,You know, with my mouth just, like, jowling around.\N[makes wobbly-faced sound effect]
+Dialogue: 0,0:37:13.84,0:37:16.45,Default,,0,0,0,,I just—I just applaud. [laughing]
+Dialogue: 0,0:37:16.45,0:37:20.70,Default,,0,0,0,,—It's at this time, Lyr, I can actually let you enter\Nthe fight, if you'd like?
+Dialogue: 0,0:37:20.70,0:37:27.21,Default,,0,0,0,,If you'd like to add, um— Because, you're the Weaver in\Nthis trio.
+Dialogue: 0,0:37:27.21,0:37:30.38,Default,,0,0,0,,So you can kind of predict their movements—
+Dialogue: 0,0:37:30.38,0:37:31.35,Default,,0,0,0,,Right.
+Dialogue: 0,0:37:30.74,0:37:33.71,Default,,0,0,0,,—And you know what they're doing. So you can add—
+Dialogue: 0,0:37:33.71,0:37:36.23,Default,,0,0,0,,you can buff or debuff, if you would like?
+Dialogue: 0,0:37:36.92,0:37:39.64,Default,,0,0,0,,I'm gonna add you into the initiative roll.
+Dialogue: 0,0:37:39.64,0:37:40.89,Default,,0,0,0,,Okay. So I should roll?
+Dialogue: 0,0:37:40.89,0:37:43.43,Default,,0,0,0,,—No, you don't need to, you're just—you go after Jude\Nnow.
+Dialogue: 0,0:37:43.76,0:37:46.55,Default,,0,0,0,,Okay. All right. So...
+Dialogue: 0,0:37:46.55,0:37:50.45,Default,,0,0,0,,I'm just going to break into this fight and fight them,\NI suppose.
+Dialogue: 0,0:37:50.45,0:37:53.25,Default,,0,0,0,,Right now it seems Vega's on the backfoot, right?
+Dialogue: 0,0:37:53.25,0:37:54.38,Default,,0,0,0,,—Right. Well, I mean, you can—
+Dialogue: 0,0:37:54.38,0:37:59.60,Default,,0,0,0,,Okay, so, this is totally fine, you can break into the\Nfight and fight them, or you can...
+Dialogue: 0,0:37:59.60,0:38:01.77,Default,,0,0,0,,stay right where you are, watching.
+Dialogue: 0,0:38:01.77,0:38:01.86,Default,,0,0,0,,Ah ha.
+Dialogue: 0,0:38:01.86,0:38:07.07,Default,,0,0,0,,The audience will not know you are helping and\Nhindering but you can, like, boost them in the fight.
+Dialogue: 0,0:38:07.07,0:38:07.71,Default,,0,0,0,,Right.
+Dialogue: 0,0:38:07.71,0:38:09.99,Default,,0,0,0,,—'Cause that's, that's what you're strong at, you can—
+Dialogue: 0,0:38:09.99,0:38:14.91,Default,,0,0,0,,Basically, you can add a flourish of wind underneath\NVega as she goes up to make her attack.
+Dialogue: 0,0:38:14.91,0:38:21.60,Default,,0,0,0,,You can add fire to Jude's sword; you can do all sorts\Nof things to just make it look a bit more epic, if
+Dialogue: 0,0:38:21.60,0:38:22.02,Default,,0,0,0,,you'd like.
+Dialogue: 0,0:38:22.02,0:38:27.21,Default,,0,0,0,,—Okay. Right, in that case, I'm going to mutter a word\Nunder my breath.
+Dialogue: 0,0:38:27.21,0:38:31.88,Default,,0,0,0,,And I am going to— as I do so, again...
+Dialogue: 0,0:38:32.69,0:38:39.06,Default,,0,0,0,,You see my— I'm sitting on this chair, my hands right\Nnow on the on the arms, legs crossed, my fingers are
+Dialogue: 0,0:38:39.06,0:38:42.20,Default,,0,0,0,,going to kind of interlace over each other, again, kind\Nof—
+Dialogue: 0,0:38:43.67,0:38:50.19,Default,,0,0,0,,Resplendent of the, coat of arms on the—of Blakegard.
+Dialogue: 0,0:38:50.19,0:38:54.40,Default,,0,0,0,,Again, you know, not enough fingers for the whole\Nthing, but it looks more or less like it.
+Dialogue: 0,0:38:54.40,0:39:01.37,Default,,0,0,0,,And as I do, you see their, their swords glow this\Nradiant yellow,
+Dialogue: 0,0:39:01.37,0:39:07.92,Default,,0,0,0,,the veins of the sword that go down it kind of go blue\Nas well, and it looks very much like the colours of the
+Dialogue: 0,0:39:07.92,0:39:09.74,Default,,0,0,0,,city of Blakegard.
+Dialogue: 0,0:39:11.57,0:39:14.75,Default,,0,0,0,,As these swords kind of just radiate their own light.
+Dialogue: 0,0:39:14.75,0:39:19.06,Default,,0,0,0,,—I love this. Vega, you're up.
+Dialogue: 0,0:39:19.06,0:39:20.28,Default,,0,0,0,,Hmm.
+Dialogue: 0,0:39:20.28,0:39:29.28,Default,,0,0,0,,I will use the momentum generated by this wind magic to\Nattempt to do a very, very theatrical boost into the
+Dialogue: 0,0:39:29.28,0:39:33.50,Default,,0,0,0,,air and spin, essentially, with a flurry of attacks.
+Dialogue: 0,0:39:34.85,0:39:37.37,Default,,0,0,0,,All right. Plus 20.
+Dialogue: 0,0:39:38.30,0:39:41.45,Default,,0,0,0,,[gasps] —Plus 20! I already rolled.
+Dialogue: 0,0:39:41.45,0:39:45.55,Default,,0,0,0,,All right. ‘Whirling Dervish’, okay, so—
+Dialogue: 0,0:39:45.55,0:39:52.68,Default,,0,0,0,,—I would, if it's possible; as the swords swing, they\Nleave an after image, so it's not like the sword is
+Dialogue: 0,0:39:52.68,0:39:58.07,Default,,0,0,0,,moving, but it's like almost smearing as she attacks,\Neven if it misses.
+Dialogue: 0,0:39:56.90,0:39:59.24,Default,,0,0,0,,—Ooh, I love that, I love that.
+Dialogue: 0,0:39:59.24,0:40:05.72,Default,,0,0,0,,Go ahead and roll for that, Lyr, and I'll actually let\Nthis be for the duration of the fight, if you'd like.
+Dialogue: 0,0:40:05.72,0:40:09.09,Default,,0,0,0,,Okay, and what would you like me to roll, is that a\Ndyne?
+Dialogue: 0,0:40:09.09,0:40:11.61,Default,,0,0,0,,It is, and you have a 20 shift.
+Dialogue: 0,0:40:11.61,0:40:12.86,Default,,0,0,0,,Okay.
+Dialogue: 0,0:40:16.07,0:40:16.71,Default,,0,0,0,,Wow, 13—
+Dialogue: 0,0:40:16.71,0:40:17.78,Default,,0,0,0,,—13—
+Dialogue: 0,0:40:17.78,0:40:18.68,Default,,0,0,0,,—Okay, perfect.
+Dialogue: 0,0:40:18.68,0:40:23.80,Default,,0,0,0,,So basically, hop in narratively anytime you want. You\Ncan add any visual.
+Dialogue: 0,0:40:23.80,0:40:24.89,Default,,0,0,0,,Okay.
+Dialogue: 0,0:40:26.39,0:40:31.05,Default,,0,0,0,,Vega, you are in the failure zone, unfortunately, for\Nthat.
+Dialogue: 0,0:40:31.05,0:40:35.64,Default,,0,0,0,,So, what do we see? Because it's not like you fail what\Nyou're trying to accomplish, it's just—
+Dialogue: 0,0:40:35.64,0:40:39.23,Default,,0,0,0,,It's not as flourish-y as you wanted it to be, it's not\Nas entertaining.
+Dialogue: 0,0:40:39.23,0:40:44.01,Default,,0,0,0,,Yeah... I think I get really caught up in the moment in\Nthe—this is—
+Dialogue: 0,0:40:44.01,0:40:51.48,Default,,0,0,0,,I'm in my element and like performing in this crowd\Ncheering over this very, like—natural-feeling fight
+Dialogue: 0,0:40:51.48,0:40:52.20,Default,,0,0,0,,that's happening.
+Dialogue: 0,0:40:52.20,0:40:59.01,Default,,0,0,0,,And I think I forget those things that I'm learning; I\Nforget that discipline that I need to make this work
+Dialogue: 0,0:40:59.01,0:41:03.86,Default,,0,0,0,,properly and synergize properly with the magic that\Nwe've made
+Dialogue: 0,0:41:03.86,0:41:11.17,Default,,0,0,0,,So rather than having like the epic, like, updraft,\Nspin, sort of thing, instead, I just end up—
+Dialogue: 0,0:41:11.17,0:41:12.39,Default,,0,0,0,,it still looks kind of cool?
+Dialogue: 0,0:41:12.39,0:41:17.40,Default,,0,0,0,,Like I jump up and there's a spin, but it's nowhere\Nnear as technically proficient, and I think I would
+Dialogue: 0,0:41:17.40,0:41:19.76,Default,,0,0,0,,land a little bit awkwardly maybe.
+Dialogue: 0,0:41:20.18,0:41:22.14,Default,,0,0,0,,And stumble a tiny bit.
+Dialogue: 0,0:41:22.14,0:41:23.09,Default,,0,0,0,,Okay.
+Dialogue: 0,0:41:25.04,0:41:25.88,Default,,0,0,0,,[blows out a breath]
+Dialogue: 0,0:41:28.22,0:41:29.45,Default,,0,0,0,,Jude, you're up.
+Dialogue: 0,0:41:32.60,0:41:40.01,Default,,0,0,0,,I would like to move quickly towards her and sweep her\Nleg to get her on the ground.
+Dialogue: 0,0:41:47.99,0:41:51.89,Default,,0,0,0,,You have something to help you with this? Or is this\Ngoing to be your general Athletics?
+Dialogue: 0,0:41:53.00,0:41:55.26,Default,,0,0,0,,I think this will be my general Athletics.
+Dialogue: 0,0:41:55.26,0:41:56.72,Default,,0,0,0,,All right, go for it.
+Dialogue: 0,0:42:00.23,0:42:00.36,Default,,0,0,0,,[pause]
+Dialogue: 0,0:42:00.36,0:42:01.19,Default,,0,0,0,,[tiny 'Oof']
+Dialogue: 0,0:42:01.19,0:42:03.65,Default,,0,0,0,,81. What happens?
+Dialogue: 0,0:42:05.06,0:42:09.74,Default,,0,0,0,,You can either miss, or you can do this without a\Nflourish. It's up to you.
+Dialogue: 0,0:42:10.73,0:42:20.87,Default,,0,0,0,,I think I think at this point, I might just want to get\Nher to the ground.
+Dialogue: 0,0:42:20.87,0:42:22.49,Default,,0,0,0,,So I do it without a flourish.
+Dialogue: 0,0:42:22.49,0:42:27.50,Default,,0,0,0,,Okay. So what do we see?
+Dialogue: 0,0:42:28.88,0:42:31.37,Default,,0,0,0,,I sweep her leg and...
+Dialogue: 0,0:42:31.85,0:42:37.40,Default,,0,0,0,,She falls on the ground, and I sort of have my sword\Nand I...
+Dialogue: 0,0:42:38.78,0:42:46.95,Default,,0,0,0,,Take a step forward and place the sword in the ground\Nbehind—beside her head, as I crouch down over on top of
+Dialogue: 0,0:42:46.95,0:42:47.75,Default,,0,0,0,,her.
+Dialogue: 0,0:42:46.95,0:42:50.57,Default,,0,0,0,,[breathing hard] Well played.
+Dialogue: 0,0:42:50.57,0:42:55.21,Default,,0,0,0,,[thirsty pause] You were brilliant—
+Dialogue: 0,0:42:55.21,0:42:56.93,Default,,0,0,0,,—So were you—
+Dialogue: 0,0:42:56.93,0:42:58.30,Default,,0,0,0,,—But I already knew you would be. [laughing]
+Dialogue: 0,0:43:00.97,0:43:03.10,Default,,0,0,0,,I guess it's your turn to fight Lyr, then.
+Dialogue: 0,0:43:04.69,0:43:08.54,Default,,0,0,0,,[in great anticipation] Ohoho. All right.
+Dialogue: 0,0:43:08.54,0:43:11.86,Default,,0,0,0,,I reach out my hand to let her help me up.
+Dialogue: 0,0:43:11.86,0:43:13.60,Default,,0,0,0,,Yeah, I help her up.
+Dialogue: 0,0:43:13.60,0:43:16.91,Default,,0,0,0,,The crowd cheers, goes wild; very excited.
+Dialogue: 0,0:43:16.91,0:43:22.45,Default,,0,0,0,,And then when Lyr stands up, the crowd goes silent.
+Dialogue: 0,0:43:22.78,0:43:29.80,Default,,0,0,0,,He walks up to fight Jude. And when they realise what's\Nhappening, they explode again.
+Dialogue: 0,0:43:31.63,0:43:32.68,Default,,0,0,0,,Let's go.
+Dialogue: 0,0:43:33.88,0:43:36.25,Default,,0,0,0,,All right, Drill Instructor.
+Dialogue: 0,0:43:36.70,0:43:37.90,Default,,0,0,0,,Shall we?
+Dialogue: 0,0:43:39.40,0:43:41.08,Default,,0,0,0,,Show me what you know.
+Dialogue: 0,0:43:41.53,0:43:45.55,Default,,0,0,0,,Okay. All right. Well, time to make you proud, shall I?
+Dialogue: 0,0:43:45.55,0:43:51.19,Default,,0,0,0,,And so I am going to, with ‘Practiced Strikes‘, just go\Nat her again.
+Dialogue: 0,0:43:52.30,0:43:55.54,Default,,0,0,0,,'Knighthood', but with like the flat of my sword.
+Dialogue: 0,0:43:56.23,0:44:00.31,Default,,0,0,0,,So: shoulder, shoulder, and then I swing horizontally\Nto her head.
+Dialogue: 0,0:44:02.44,0:44:03.52,Default,,0,0,0,,Go ahead and roll.
+Dialogue: 0,0:44:04.81,0:44:07.60,Default,,0,0,0,,56. it's a failure. And unfortunately—
+Dialogue: 0,0:44:07.60,0:44:08.62,Default,,0,0,0,,—Ah, she knows it.
+Dialogue: 0,0:44:08.62,0:44:10.27,Default,,0,0,0,,Yeah, she knows it's coming.
+Dialogue: 0,0:44:10.27,0:44:14.31,Default,,0,0,0,,She ducks out of the way. But also, I'm going to say,\Nthat...
+Dialogue: 0,0:44:14.31,0:44:20.65,Default,,0,0,0,,Right before your sword connects, Lyr, you feel that\Nweird 'something is wrong in your gut' again.
+Dialogue: 0,0:44:20.65,0:44:23.20,Default,,0,0,0,,And maybe you hesitate for a second.
+Dialogue: 0,0:44:23.77,0:44:30.92,Default,,0,0,0,,And I think it seems like you are actually going to\Nswing. Like you're not going to stop, because you're
+Dialogue: 0,0:44:30.92,0:44:33.31,Default,,0,0,0,,distracted by this feeling.
+Dialogue: 0,0:44:33.31,0:44:39.93,Default,,0,0,0,,So, Jude, you have a moment where it seems like that\Nmight actually have connected.
+Dialogue: 0,0:44:39.93,0:44:46.66,Default,,0,0,0,,Yeah. It feels a little bit out of what I was expecting\Nbecause I know, I know his...
+Dialogue: 0,0:44:49.06,0:44:50.84,Default,,0,0,0,,His battle so well.
+Dialogue: 0,0:44:50.84,0:44:54.32,Default,,0,0,0,,[blows out a breath]
+Dialogue: 0,0:44:54.32,0:44:57.50,Default,,0,0,0,,Vega, I'm leaving you in the turn order.
+Dialogue: 0,0:44:57.50,0:45:02.37,Default,,0,0,0,,If you would like to do the same thing Lyr was doing,\Nand add flourish, you may do so.
+Dialogue: 0,0:45:02.37,0:45:03.34,Default,,0,0,0,,Hm. Okay.
+Dialogue: 0,0:45:03.34,0:45:05.30,Default,,0,0,0,,If not, you can just watch. It's up to you.
+Dialogue: 0,0:45:05.30,0:45:07.55,Default,,0,0,0,,Um, this is my turn, now?
+Dialogue: 0,0:45:07.55,0:45:08.41,Default,,0,0,0,,Yes. [crosstalk]
+Dialogue: 0,0:45:10.75,0:45:15.47,Default,,0,0,0,,I think—I wouldn't maybe even notice that. Would I\Nnotice? That Lyr almost went for a kill shot—
+Dialogue: 0,0:45:15.47,0:45:16.70,Default,,0,0,0,,—Oh, yes, yes, absolutely—
+Dialogue: 0,0:45:16.70,0:45:16.73,Default,,0,0,0,,—Yeah?
+Dialogue: 0,0:45:16.73,0:45:24.91,Default,,0,0,0,,...And I kind of—uneasily, I try and distract,\Nalmost?—And add like a shower of sparks—uhm,
+Dialogue: 0,0:45:24.91,0:45:29.60,Default,,0,0,0,,So it kind of distracts from the intensity of what just\Nhappened there.
+Dialogue: 0,0:45:29.60,0:45:34.93,Default,,0,0,0,,Okay, perfect. Go ahead and roll. And again, we'll do\Nthe same thing that we did with Lyr,
+Dialogue: 0,0:45:34.93,0:45:39.06,Default,,0,0,0,,Where this will count for the rest of it. So you can\Nadd a plus 20 shift.
+Dialogue: 0,0:45:39.06,0:45:40.24,Default,,0,0,0,,Okey dokey.
+Dialogue: 0,0:45:46.57,0:45:52.43,Default,,0,0,0,,Nice; partial success. So it's not as, like, grandiose\Nas, maybe, you were hoping, but it's still—it's still
+Dialogue: 0,0:45:52.43,0:45:55.09,Default,,0,0,0,,nice, and the crowd will go wild and they'll respond to\Nit.
+Dialogue: 0,0:45:56.17,0:45:59.35,Default,,0,0,0,,[lets out a breath] 'Kay, I look around uneasily like,\N'Ha, yeah! Whew.'
+Dialogue: 0,0:45:59.35,0:46:00.16,Default,,0,0,0,,[crowd cheering]
+Dialogue: 0,0:46:04.84,0:46:06.07,Default,,0,0,0,,Jude, you're up.
+Dialogue: 0,0:46:08.14,0:46:15.41,Default,,0,0,0,,I'm going to... sort of match his strikes, the ones\Nthat he was about to do,
+Dialogue: 0,0:46:15.41,0:46:20.14,Default,,0,0,0,,But I'm going to do them with that theatrical flourish.
+Dialogue: 0,0:46:20.14,0:46:27.07,Default,,0,0,0,,To kind of be like: 'Here. Here's the strength you're\Nsupposed to use for that right now'.
+Dialogue: 0,0:46:27.79,0:46:33.79,Default,,0,0,0,,Just kind of do the same thing that he did. Minus\Nthe... violence.
+Dialogue: 0,0:46:33.79,0:46:34.16,Default,,0,0,0,,Okay.
+Dialogue: 0,0:46:34.16,0:46:34.69,Default,,0,0,0,,[noise]
+Dialogue: 0,0:46:37.48,0:46:38.35,Default,,0,0,0,,Oooh.
+Dialogue: 0,0:46:38.35,0:46:39.20,Default,,0,0,0,,[slowly] Failure.
+Dialogue: 0,0:46:39.20,0:46:39.41,Default,,0,0,0,,[tense music]
+Dialogue: 0,0:46:39.41,0:46:54.04,Default,,0,0,0,,...I think I'm... very...unsure about that moment with\Nhim.
+Dialogue: 0,0:46:54.04,0:46:56.83,Default,,0,0,0,,How connected are you with Lyr?
+Dialogue: 0,0:46:57.46,0:47:01.03,Default,,0,0,0,,Like, do you guys have that 'twin sense'?
+Dialogue: 0,0:47:01.03,0:47:05.75,Default,,0,0,0,,Where it's like, if he's feeling something, you\Nempathetically feel it as well, just by body language?
+Dialogue: 0,0:47:05.75,0:47:07.51,Default,,0,0,0,,Like you can look at him, and know?
+Dialogue: 0,0:47:07.51,0:47:09.02,Default,,0,0,0,,Yeah, yeah. Totally.
+Dialogue: 0,0:47:09.02,0:47:12.82,Default,,0,0,0,,Okay. I need you to roll a social stat, please. Which\Nis in your heart.
+Dialogue: 0,0:47:13.30,0:47:14.38,Default,,0,0,0,,Yes.
+Dialogue: 0,0:47:16.09,0:47:17.99,Default,,0,0,0,,'Heart Knows Only Truth'; would that work?
+Dialogue: 0,0:47:17.99,0:47:18.83,Default,,0,0,0,,Yeah. Yep, that'll work.
+Dialogue: 0,0:47:18.83,0:47:21.82,Default,,0,0,0,,[dejectedly] Oh.
+Dialogue: 0,0:47:21.82,0:47:27.55,Default,,0,0,0,,84: failure. Okay. Something is wrong. And you don't\Nknow what it is. But it's it's...
+Dialogue: 0,0:47:28.57,0:47:32.08,Default,,0,0,0,,ever-present, right now, and will be for the remainder\Nof this fight.
+Dialogue: 0,0:47:32.68,0:47:33.41,Default,,0,0,0,,Okay, um—
+Dialogue: 0,0:47:33.41,0:47:35.71,Default,,0,0,0,,—Your shift goes from 20 to 10 now.
+Dialogue: 0,0:47:36.34,0:47:40.84,Default,,0,0,0,,—Okay. For... in that case, I feel like...
+Dialogue: 0,0:47:40.84,0:47:44.44,Default,,0,0,0,,Would I—would I be having this feeling before the\Nattack I just did?
+Dialogue: 0,0:47:44.44,0:47:45.92,Default,,0,0,0,,As you are making this attack—
+Dialogue: 0,0:47:45.92,0:47:46.07,Default,,0,0,0,,—As I'm doing—
+Dialogue: 0,0:47:46.07,0:47:47.86,Default,,0,0,0,,—That's part of why you fail. Yep.
+Dialogue: 0,0:47:47.86,0:47:49.78,Default,,0,0,0,,—Yeah. Okay, perfect. Yeah.
+Dialogue: 0,0:47:50.32,0:47:53.95,Default,,0,0,0,,I'm just going to cast a look at Vega, concerned.
+Dialogue: 0,0:47:56.50,0:48:01.30,Default,,0,0,0,,I kind of give her an encouraging smile, like—'keep\Ngoing'.
+Dialogue: 0,0:48:06.22,0:48:07.33,Default,,0,0,0,,Lyr.
+Dialogue: 0,0:48:07.84,0:48:11.42,Default,,0,0,0,,I'm... okay. I'm going to...
+Dialogue: 0,0:48:11.42,0:48:17.11,Default,,0,0,0,,I noticed that something... isn't quite right., and...
+Dialogue: 0,0:48:17.11,0:48:22.18,Default,,0,0,0,,In all honesty, we haven't really trained in theatrics.
+Dialogue: 0,0:48:22.18,0:48:26.18,Default,,0,0,0,,You know, of course, we recalibrate when we're\Npractising so we don't hurt each other, you know, and
+Dialogue: 0,0:48:26.18,0:48:27.32,Default,,0,0,0,,this is what we're doing right now.
+Dialogue: 0,0:48:27.32,0:48:32.38,Default,,0,0,0,,But, obviously, in the heat of the moment, with all the\Ncrowd watching; and the fire of it...
+Dialogue: 0,0:48:33.82,0:48:41.33,Default,,0,0,0,,I am going to take another swing: a vertical one, at\NJude, but I'm not going to try and connect at all.
+Dialogue: 0,0:48:41.33,0:48:47.36,Default,,0,0,0,,In fact, instead, I'm going to try and make it,\Nperhaps, a little bit more theatrical once more, with a
+Dialogue: 0,0:48:47.36,0:48:48.49,Default,,0,0,0,,bit of magic.
+Dialogue: 0,0:48:48.49,0:48:57.98,Default,,0,0,0,,I'm going to channel that, ah, 'royal divinity', if you\Nwill, and make the sword glow.
+Dialogue: 0,0:48:57.98,0:49:06.01,Default,,0,0,0,,And as I swing down, I kind of want an arc of this\Nlight—to emanate from the sword, at Jude.
+Dialogue: 0,0:49:06.01,0:49:10.54,Default,,0,0,0,,It shouldn't hurt her; it's just light. [uneasily] It's\Njust a light show, and, ah.
+Dialogue: 0,0:49:10.54,0:49:12.45,Default,,0,0,0,,You know, just— swing at her.
+Dialogue: 0,0:49:12.45,0:49:13.82,Default,,0,0,0,,—She can react to it—
+Dialogue: 0,0:49:13.82,0:49:13.95,Default,,0,0,0,,—Right—
+Dialogue: 0,0:49:13.95,0:49:14.90,Default,,0,0,0,,—Yeah. Okay.
+Dialogue: 0,0:49:15.47,0:49:17.30,Default,,0,0,0,,Go ahead and roll for it.
+Dialogue: 0,0:49:17.30,0:49:18.23,Default,,0,0,0,,Dyne?
+Dialogue: 0,0:49:18.23,0:49:20.51,Default,,0,0,0,,No, you can just roll your regular attack.
+Dialogue: 0,0:49:20.51,0:49:26.24,Default,,0,0,0,,Your dyne was very—you rolled a success on your dyne,\Nso it's going to stay for the remainder of the fight.
+Dialogue: 0,0:49:26.24,0:49:32.76,Default,,0,0,0,,All right. In that case, I'm going to use this, ah—
+Dialogue: 0,0:49:32.76,0:49:37.11,Default,,0,0,0,,'Jude's Star Pupil' because, again: I've been sparring\Nwith her my entire life.
+Dialogue: 0,0:49:37.11,0:49:40.46,Default,,0,0,0,,Wow, I love that. That's a very clever skill.
+Dialogue: 0,0:49:41.09,0:49:43.88,Default,,0,0,0,,And is there a shift in this or no?
+Dialogue: 0,0:49:44.39,0:49:45.32,Default,,0,0,0,,10.
+Dialogue: 0,0:49:49.04,0:49:49.38,Default,,0,0,0,,10.
+Dialogue: 0,0:49:49.38,0:49:49.77,Default,,0,0,0,,[tense music]
+Dialogue: 0,0:49:49.77,0:49:49.83,Default,,0,0,0,,26—
+Dialogue: 0,0:49:49.83,0:49:51.68,Default,,0,0,0,,—Partial success. Perfect.
+Dialogue: 0,0:49:53.66,0:49:58.48,Default,,0,0,0,,Jude, how do you react? Unless, Lyr, you were going to\Ndescribe something.
+Dialogue: 0,0:49:58.48,0:50:00.30,Default,,0,0,0,,Just the swing I wanted to do before. I—
+Dialogue: 0,0:50:00.30,0:50:01.94,Default,,0,0,0,,[graciously] —Yes, please. Please do.
+Dialogue: 0,0:50:02.60,0:50:11.18,Default,,0,0,0,,Right, so... again: I sheathe the sword, and as I do,\Nyou see the entire scabbard kind of glow.
+Dialogue: 0,0:50:11.18,0:50:15.50,Default,,0,0,0,,I pull it out, and I don't use it as a draw attack; it\Ngoes in the air again; it catches the sun.
+Dialogue: 0,0:50:15.50,0:50:22.62,Default,,0,0,0,,Jude, I would hope, recognises what I'm doing, and I\Njust swing down, and as I do, this after-image of light
+Dialogue: 0,0:50:22.62,0:50:27.83,Default,,0,0,0,,then swings and goes a further 10, 15 metres towards\NJude.
+Dialogue: 0,0:50:29.45,0:50:31.04,Default,,0,0,0,,Jude, how do you react?
+Dialogue: 0,0:50:33.02,0:50:35.44,Default,,0,0,0,,I recognise what he's doing, yeah?
+Dialogue: 0,0:50:35.44,0:50:36.30,Default,,0,0,0,,Yeah, of course you do.
+Dialogue: 0,0:50:36.30,0:50:37.82,Default,,0,0,0,,Yeah. Okay.
+Dialogue: 0,0:50:38.18,0:50:47.58,Default,,0,0,0,,I will... I will pretend that I'm protecting myself\Nagainst it, but I will take it and then fall to my
+Dialogue: 0,0:50:47.58,0:50:49.79,Default,,0,0,0,,knees, dramatically.
+Dialogue: 0,0:50:54.14,0:50:54.33,Default,,0,0,0,,—Got it.
+Dialogue: 0,0:50:54.33,0:50:55.04,Default,,0,0,0,,[gasps for breath]
+Dialogue: 0,0:50:57.26,0:50:58.70,Default,,0,0,0,,Do you yield? [laughs]
+Dialogue: 0,0:51:00.62,0:51:01.97,Default,,0,0,0,,I yield!
+Dialogue: 0,0:51:03.65,0:51:04.94,Default,,0,0,0,,All right.
+Dialogue: 0,0:51:05.66,0:51:10.22,Default,,0,0,0,,—She yields! Lyr's victirious—*victorious*, once again!
+Dialogue: 0,0:51:11.15,0:51:12.48,Default,,0,0,0,,The crowd goes wild—
+Dialogue: 0,0:51:11.90,0:51:17.99,Default,,0,0,0,,—People are standing up, you know; Jude is pretending\Nto be extremely out of breath.
+Dialogue: 0,0:51:12.48,0:51:13.16,Default,,0,0,0,,[breathlessly] —Congratulations— [clapping]
+Dialogue: 0,0:51:18.74,0:51:19.32,Default,,0,0,0,,Everyone wants to—
+Dialogue: 0,0:51:19.32,0:51:20.73,Default,,0,0,0,,—I extend a hand to her—
+Dialogue: 0,0:51:20.73,0:51:23.63,Default,,0,0,0,,—Yeah, everyone's very, very pleased with what they've\Njust witnessed.
+Dialogue: 0,0:51:24.86,0:51:25.29,Default,,0,0,0,,I take—
+Dialogue: 0,0:51:25.29,0:51:25.82,Default,,0,0,0,,—Um...
+Dialogue: 0,0:51:28.13,0:51:31.31,Default,,0,0,0,,I kind of make, like, another shower of like, sparks\Naround us?—
+Dialogue: 0,0:51:31.31,0:51:38.09,Default,,0,0,0,,Once again, to distract, while I walk over and take a\Ngood look at Lyr and Jude... [trails off]
+Dialogue: 0,0:51:39.11,0:51:47.31,Default,,0,0,0,,There's slight concern in my face, but I don't seem\Nworried. But once the trio—once we help Jude up, I say:
+Dialogue: 0,0:51:47.31,0:51:51.96,Default,,0,0,0,,Perhaps maybe we should probably work on our stage\Nfighting, if you want to try that again, eh? [small
+Dialogue: 0,0:51:51.96,0:51:52.55,Default,,0,0,0,,laugh]
+Dialogue: 0,0:51:54.86,0:51:57.35,Default,,0,0,0,,Yes; I think went well, however.
+Dialogue: 0,0:51:57.35,0:51:58.43,Default,,0,0,0,,Right.
+Dialogue: 0,0:51:58.43,0:51:58.98,Default,,0,0,0,,Well done, you two.
+Dialogue: 0,0:51:58.98,0:52:00.59,Default,,0,0,0,,I think that people got what they wanted.
+Dialogue: 0,0:52:01.13,0:52:03.33,Default,,0,0,0,,Everybody roll dyne, please.
+Dialogue: 0,0:52:03.33,0:52:09.90,Default,,0,0,0,,[exclaiming] Oooh, who was that 5?
+Dialogue: 0,0:52:09.90,0:52:11.07,Default,,0,0,0,,—That was me.
+Dialogue: 0,0:52:11.07,0:52:12.14,Default,,0,0,0,,—That's Lyr.
+Dialogue: 0,0:52:12.14,0:52:13.91,Default,,0,0,0,,Of course it was.
+Dialogue: 0,0:52:13.91,0:52:15.23,Default,,0,0,0,,Of course it was.
+Dialogue: 0,0:52:16.22,0:52:21.17,Default,,0,0,0,,We all get 23, right? Oh, no. Nevermind.
+Dialogue: 0,0:52:23.03,0:52:26.87,Default,,0,0,0,,Partial, and partial for you two. Okay.
+Dialogue: 0,0:52:27.98,0:52:30.77,Default,,0,0,0,,As you are standing there getting up and kind of...
+Dialogue: 0,0:52:30.77,0:52:33.70,Default,,0,0,0,,comforting each other and talking about how well that went,
+Dialogue: 0,0:52:33.70,0:52:36.77,Default,,0,0,0,,maybe your anxiety is a little high—the adrenaline...
+Dialogue: 0,0:52:38.33,0:52:43.37,Default,,0,0,0,,Vega and Jude, you can feel the earth trembling.
+Dialogue: 0,0:52:45.41,0:52:52.58,Default,,0,0,0,,Lyr, something terrible is about to happen,\Nand you need to leave here right now.
+Dialogue: 0,0:52:53.48,0:52:55.42,Default,,0,0,0,,You two, we must leave now.
+Dialogue: 0,0:52:55.42,0:52:56.99,Default,,0,0,0,,You—are you doing that?
+Dialogue: 0,0:52:56.99,0:52:58.01,Default,,0,0,0,,No.
+Dialogue: 0,0:52:58.01,0:52:59.03,Default,,0,0,0,,What is happening?
+Dialogue: 0,0:52:59.03,0:53:01.45,Default,,0,0,0,,I don't know, but we must move. Now.
+Dialogue: 0,0:53:01.14,0:53:02.45,Default,,0,0,0,,VEGA: Okay. We go.
+Dialogue: 0,0:53:01.71,0:53:02.45,Default,,0,0,0,,JUDE: All right.
+Dialogue: 0,0:53:02.45,0:53:03.89,Default,,0,0,0,,I take his left arm.
+Dialogue: 0,0:53:04.64,0:53:10.49,Default,,0,0,0,,Okay. All right, we've got to—ah there's a bunker.\N{\i1}The{\i0} bunker.
+Dialogue: 0,0:53:10.49,0:53:12.71,Default,,0,0,0,,Yeah, there's a gap in the crowd there. Let's go.
+Dialogue: 0,0:53:12.71,0:53:13.73,Default,,0,0,0,,Okay.
+Dialogue: 0,0:53:20.17,0:53:22.12,Default,,0,0,0,,[background chatter fades]
 Comment: 0,0:04:03.14,0:04:03.14,Default,,0,0,0,,SECTION: INTERMISSION
+Dialogue: 0,0:53:26.61,0:53:32.33,Default,,0,0,0,,So... [distorted, indecipherable echoing words]
+Dialogue: 0,0:53:32.33,0:53:35.25,Default,,0,0,0,,The flow has shifted.
+Dialogue: 0,0:53:35.25,0:53:36.70,Default,,0,0,0,,Ah...?
+Dialogue: 0,0:53:36.70,0:53:38.38,Default,,0,0,0,,You feel it as well?
+Dialogue: 0,0:53:38.38,0:53:44.22,Default,,0,0,0,,I've... been feeling...*something*... And this must\Nmean...?
+Dialogue: 0,0:53:44.22,0:53:49.57,Default,,0,0,0,,A debt that need be paid has long been owed.
+Dialogue: 0,0:53:49.57,0:53:51.00,Default,,0,0,0,,[garbled] Yes...
+Dialogue: 0,0:53:51.00,0:53:58.90,Default,,0,0,0,,Funny, how the babes do not quite understand\Nthe world and how it... breathes.
+Dialogue: 0,0:53:58.90,0:54:03.99,Default,,0,0,0,,A steep price will be paid for his hubris.
+Dialogue: 0,0:54:03.99,0:54:05.13,Default,,0,0,0,,Was it him?
+Dialogue: 0,0:54:05.13,0:54:05.97,Default,,0,0,0,,[garbled] yes...
+Dialogue: 0,0:54:05.97,0:54:08.91,Default,,0,0,0,,That did this? ...Was it me?
+Dialogue: 0,0:54:08.91,0:54:11.10,Default,,0,0,0,,The king's brother...
+Dialogue: 0,0:54:11.10,0:54:12.95,Default,,0,0,0,,The king's brother?
+Dialogue: 0,0:54:12.95,0:54:13.72,Default,,0,0,0,,Rasroth.
+Dialogue: 0,0:54:13.72,0:54:14.70,Default,,0,0,0,,[garbled] Ras...
+Dialogue: 0,0:54:14.70,0:54:16.20,Default,,0,0,0,,Rasroth.
+Dialogue: 0,0:54:16.20,0:54:20.79,Default,,0,0,0,,He who drenched the land will now be responsible—
+Dialogue: 0,0:54:20.79,0:54:22.79,Default,,0,0,0,,[indecipherable, distorted speech]
+Dialogue: 0,0:54:24.90,0:54:27.77,Default,,0,0,0,,A pruning of life, at a cost.
+Dialogue: 0,0:54:28.63,0:54:29.36,Default,,0,0,0,,Yes.
+Dialogue: 0,0:54:30.50,0:54:32.43,Default,,0,0,0,,[name], are you with us?
+Dialogue: 0,0:54:32.43,0:54:33.75,Default,,0,0,0,,Yes. I—
+Dialogue: 0,0:54:36.35,0:54:38.62,Default,,0,0,0,,How long have we been talking?
+Dialogue: 0,0:54:38.62,0:54:40.29,Default,,0,0,0,,Ahh...
+Dialogue: 0,0:54:40.29,0:54:41.62,Default,,0,0,0,,We've always been here
+Dialogue: 0,0:54:41.62,0:54:43.49,Default,,0,0,0,,[garbled] Yes...
+Dialogue: 0,0:54:43.93,0:54:45.27,Default,,0,0,0,,Yes, [name].
+Dialogue: 0,0:54:46.19,0:54:48.70,Default,,0,0,0,,I'll... [indecipherable noises].
+Dialogue: 0,0:54:48.70,0:54:49.30,Default,,0,0,0,,Yes.
+Dialogue: 0,0:54:49.30,0:54:51.97,Default,,0,0,0,,I will... retrieve our bounty.
+Dialogue: 0,0:54:51.97,0:54:53.79,Default,,0,0,0,,And I will watch.
+Dialogue: 0,0:54:53.79,0:54:59.01,Default,,0,0,0,,[strange noises]
+Dialogue: 0,0:55:07.53,0:55:12.76,Default,,0,0,0,,Strange that it took so long for the [indecipherable].
+Dialogue: 0,0:55:12.76,0:55:16.33,Default,,0,0,0,,It is interesting, but...
+Dialogue: 0,0:55:16.33,0:55:21.88,Default,,0,0,0,,Two have been giveth and two will be taken, yes?
+Dialogue: 0,0:55:21.88,0:55:23.58,Default,,0,0,0,,It's always been this way
+Dialogue: 0,0:55:23.58,0:55:25.02,Default,,0,0,0,,I see it.
+Dialogue: 0,0:55:26.74,0:55:29.64,Default,,0,0,0,,I can feel the water.
+Dialogue: 0,0:55:30.40,0:55:33.07,Default,,0,0,0,,When do we expect the earth to weep?
+Dialogue: 0,0:55:33.07,0:55:36.34,Default,,0,0,0,,I have already begun [indecipherable].
+Dialogue: 0,0:55:36.34,0:55:42.57,Default,,0,0,0,,Ahh. I am interested in your theories,\Nand matching it with our proof.
+Dialogue: 0,0:55:44.83,0:55:45.99,Default,,0,0,0,,Is this...
+Dialogue: 0,0:55:45.99,0:55:46.98,Default,,0,0,0,,[garbled] Ooh.
+Dialogue: 0,0:55:46.98,0:55:48.12,Default,,0,0,0,,What I wanted?
+Dialogue: 0,0:55:48.12,0:55:51.83,Default,,0,0,0,,It's happening. Do you feel that?
+Dialogue: 0,0:55:51.83,0:55:55.08,Default,,0,0,0,,No— someone else.
+Dialogue: 0,0:55:55.08,0:55:56.14,Default,,0,0,0,,Ooh.
+Dialogue: 0,0:55:56.94,0:55:58.25,Default,,0,0,0,,One by one.
+Dialogue: 0,0:56:02.85,0:56:03.89,Default,,0,0,0,,They'll die.
+Dialogue: 0,0:56:11.13,0:56:12.17,Default,,0,0,0,,The old.
+Dialogue: 0,0:56:14.31,0:56:15.41,Default,,0,0,0,,The weak.
+Dialogue: 0,0:56:18.75,0:56:19.76,Default,,0,0,0,,They'll pay.
+Dialogue: 0,0:56:22.27,0:56:24.29,Default,,0,0,0,,And we'll see what becomes...
+Dialogue: 0,0:56:27.99,0:56:29.18,Default,,0,0,0,,Of the rest.
+Dialogue: 0,0:56:31.23,0:56:33.20,Default,,0,0,0,,How long has it been?
+Dialogue: 0,0:56:36.78,0:56:38.12,Default,,0,0,0,,Have I always...
+Dialogue: 0,0:56:40.43,0:56:41.42,Default,,0,0,0,,been alone?
 Comment: 0,0:04:03.14,0:04:03.14,Default,,0,0,0,,SECTION: ACT 2
 Comment: 0,0:04:03.14,0:04:06.14,Default,,0,0,0,,SECTION: OUTRO
