@@ -1,0 +1,10 @@
+# ignore any media files we might encounter.
+*.mkv
+*.mp4
+*.m4a
+*.mp3
+
+# ignore our project files from otter.ai
+*.aup
+*.wav
+*otter_ai.srt
